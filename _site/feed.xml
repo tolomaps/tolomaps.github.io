@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Nov 2015 22:48:59 -0600</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2015 22:48:59 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Nov 2015 14:11:16 -0600</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/11/05/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/05/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Hire or Be Hired: A Jobs Panel (#nacis2015 recap)</title>
+        <description>&lt;p&gt;At the &lt;a href=&quot;http://nacis.org/&quot;&gt;NACIS&lt;/a&gt; annual meeting last week, I ran a &lt;a href=&quot;https://nacis2015.sched.org/event/c67d4672661ab40b5afa25beb0fbdcc9#.VinNz2SrQy4&quot;&gt;jobs panel&lt;/a&gt; with 5 people from various parts of the geo industry, including Azavea (Sarah Cordivano), CartoDB (Andrew Hill), ESRI (Sean Breyer), National Geographic (Martin Gamache), and the State Department (Leo Dillon). Thanks to all y’all! I wanted to run this panel because we learn in school about how to design a map, but we don’t learn how to a) go about searching for and securing a job, and b) hire someone else. I loved moderating the panel and am grateful to everyone who participated. &lt;a href=&quot;https://speakerdeck.com/nvkelso/a-jobs-panel-how-to-hire-or-be-hired&quot;&gt;Here are the questions that I asked&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;I want to outline the key takeaways that came out of the session, in my subjective opinion. They’re mostly applicable to cartography / design / mappy jobs, but perhaps will be helpful to others, too.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Make an annotated portfolio.&lt;/b&gt; You should have an online portfolio. Employers are interested not just in seeing a bunch of stuff that you made, but they want to hear about your process for making these things. They want to hear how you creatively solved problems, what you would do differently next time, which software you used and how you used it. And it’s about quality over quantity. Don’t just throw in every thing you’ve ever made; pick out your best pieces and explain your creation process.&lt;br/&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Your resume doesn’t matter as much as your portfolio.&lt;/b&gt; Most people said they didn’t care so much about where you’ve worked before or your exact experience, but they wanted to hear about projects that you’ve worked on that you were passionate about. No one looks closely at resumes, they’ll just give it a quick glance. But beware: a poorly designed resume is a red flag for a cartographer/designer position. And you should tweak it depending on which job you’re applying for; assess what they’re looking for and adjust accordingly to highlight different experiences. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Build a network.&lt;/b&gt; If the three rules of real estate are “location, location, location,” then the three rules of getting hired are “network, network, network.” Pretty much everyone on the panel said they almost exclusively hired people either from within their direct network or who were within a couple of degrees of separation. One panelist so poignantly said, “You have you to learn to network without being creepy.” Ask people at a place you’re interested in working at for an informational interview. Give a presentation at a conference. Encourage your university to make contacts with local companies.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Do your homework.&lt;/b&gt; Read up on the organization where you are interviewing. Read their blog to get a feel for their culture and what they value. Ask targeted questions. Think about why it is you want to work for that particular company.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Culture matters.&lt;/b&gt; I’ll just quote Martin Gamache here: “The fact is, you spend most of your waking hours with your co-workers, and if you don’t know how to get along with them, if you don’t know how to communicate effectively, it makes the workplace miserable for everyone else.” When looking for a job and when hiring, cultural fit is an elusive idea, but important nonetheless. Ask questions about culture to see if you think you’d fit. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Learning matters.&lt;/b&gt; Coming in with some hard skills is important, but everyone emphasized that they are looking for candidates who are looking to grow and who acknowledge that they don’t know everything.  &lt;/li&gt;&lt;li&gt;&lt;b&gt;Teaching matters.&lt;/b&gt; In an interview, it’s awesome if you can explain a complicated concept in layman’s terms. In the workplace, you’ll all be learning from each other, so they want to see if you’ll be good at teaching. It doesn’t mean that you need teaching experience, but rather that you are interested in building up others.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Be ready. &lt;/b&gt;Job postings often have tight deadlines, so have your resume and portfolio ready. They can be tweaked as needed for a given position, but it’s harder to create something from scratch on short notice.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Be real. &lt;/b&gt;Don’t oversell yourself. If you’ve taken one JavaScript class and haven’t done much outside of that, don’t sell yourself as an expert programmer. But be sure to mention that you do have some experience and are looking to learn more&amp;hellip; unless you don’t want to learn more. In which case, just be upfront about what you are and aren’t looking for.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Negotiate.&lt;/b&gt; Some places have predefined, upfront pay ranges. Others don’t. But there is no harm in negotiating at every step of the process. &lt;/li&gt;&lt;/ol&gt;&lt;hr&gt;&lt;h2&gt;A few bonus tips from yours truly&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Don’t wait for a job announcement to contact a place you’re interested in.&lt;/b&gt; I found an awesome internship last summer at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, but it’s not like they had an internship job description up on their website. I contacted a bunch of companies in search of an internship, and the vast majority who I heard back from didn’t actually have jobs posted on their websites.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Keep an ongoing list of places you’re interested in working.&lt;/b&gt; I have a spreadsheet with a list of every place I might possibly be interested in working at someday. It includes contact information and a note if I know someone who works there (or know someone who knows someone who works there). I am constantly adding to it as I see things pop up on Twitter or blogs. Then when it’s time to enter the job market, I don’t have to think, “Where should I apply?”&lt;/li&gt;&lt;li&gt;&lt;b&gt;You’ll be rejected. Cry and then get over it.&lt;/b&gt; Let’s say 50 people apply for a given job. That means 49 people won’t get it. Which means I’ll be that person 49 times out of 50. You’ll probably need to apply to a bunch of places before you find the right fit.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Get over your imposter syndrome.&lt;/b&gt; You have something to bring to a team. You do. You are worthy and knowledgeable even if you don’t think you are. It can be intimidating to apply for jobs - you read a job description and think, “I only fit like 50% of this!” But it turns out that when they’re hiring for a job, they don’t expect to even find someone who fits all of the qualifications. Apply for the job. Send them an email and ask a question.&lt;br/&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Fake it til you make it.&lt;/b&gt; One of the crazy things about being an adult is recognizing that no one knows what they’re doing. We’re all figuring it out as we go along. Speak confidently even if you’re not sure what you’re doing. Granted, this is a balance to #9 above. You don’t want to be disingenuous, but also trust yourself that you will be able to learn and grow. &lt;/li&gt;&lt;/ol&gt;&lt;hr&gt;&lt;h2&gt;And now, some personal musings&lt;/h2&gt;&lt;p&gt;I worked hard to put together a panel that represented different parts of the geo industry. I also worked hard to put together a panel with good women representation. My original panel had 3 women and 2 men. Then 2 of the women couldn’t participate for one reason or another and replaced themselves with male colleagues. I was upset - white men are so overrepresented at conference sessions! But guess what - life goes on. And it turns out that white men are the people doing a lot of the hiring out there, so it might not be the worst thing in the world to hear what they have to say. I have nothing against white men by the way. I just want the world to be moving in a direction where it’s not just white men making all the important decisions. And I can’t say anything at all about racial diversity. I totally failed there. Improving diversity at NACIS in general is something that I would love to explore but have no idea where to start.&lt;/p&gt;&lt;p&gt;Speaking of, I asked a follow-up question to the panel in the section about culture that essentially said, “Hey, you value culture and cultural fit. That typically means hiring people who are like you. Does your organization care about diversity? What do you do to promote cultural diversity?” There were a couple of half-hearted attempts to answer it, but most panelists opted not to respond. From the fact that people largely didn’t address this, it’s clearly not a priority in hiring.&lt;/p&gt;&lt;p&gt;^This, coupled with the fact that most people hire other people based on their networks (this isn’t a novel idea from this panel, it’s pretty widely known) makes me think: someday, when I’m hiring a bunch of people, I want to make a concerted effort to hire people outside of my network. How is there supposed to be social mobility if we just continue to hire people within our inner circles? &lt;br/&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Thanks&lt;/h2&gt;&lt;p&gt;Thanks to all of the panelists who participated (Sean Breyer, Sarah Cordivano, Leo Dillon, Martin Gamache, Andrew Hill). Thanks to &lt;a href=&quot;https://twitter.com/tgirgin2&quot;&gt;Timur Girgin&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/KristenLyn92&quot;&gt;Kristen Vincent&lt;/a&gt; for taking notes for me during the session. And Morgan Jarocki for &lt;a href=&quot;https://gist.github.com/MorJar/a2afd1c853f8db6db3ec&quot;&gt;posting his notes online&lt;/a&gt;. Thanks to Tanya Buckingham for brainstorming questions with me. Thanks to NACIS for being the nicest.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Oct 2015 03:17:06 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/10/23/how-to-hire-or-be-hired-a-jobs-panel-nacis2015.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/10/23/how-to-hire-or-be-hired-a-jobs-panel-nacis2015.html</guid>
+        
+        <category>nacis</category>
+        
+        <category>jobs</category>
+        
+        <category>panel</category>
+        
+        <category>hiring</category>
+        
+        <category>cartography</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>Creating a bivariate choropleth color scheme</title>
+        <description>&lt;p&gt;I recently created &lt;a href=&quot;http://tolomaps.com/portfolio/the-real-cost-of-child-care/&quot;&gt;an infographic on the cost of child care in the U.S.&lt;/a&gt; for my graphic design in cartography class this semester. One of the assignment requirements was to include a bivariate map in the visual story. 
+&lt;/p&gt;&lt;img src=&quot;http://41.media.tumblr.com/7109370e218259646119c92b8ef05d49/tumblr_inline_nv7amghzSj1sr0q4f_540.png&quot; alt=&quot;image&quot;/&gt;&lt;p&gt;A bivariate map is one that shows two different pieces of data on one map. You can also have multivariate maps, showing more than two variables (my personal fave is &lt;a href=&quot;http://popvssoda.com/&quot;&gt;pop vs. soda&lt;/a&gt;). Bivariate &lt;b&gt;choropleth&lt;/b&gt; maps shade different units (in my case, states - but could be counties or countries) different colors based on these variables.&lt;/p&gt;&lt;p&gt;Bivariate choropleth maps are difficult to understand, and thus difficult to make. Truth is, I don’t even think this map should be a bivariate map. You could probably better tell this story by simply mapping what percentage of people’s income goes towards child care. &lt;/p&gt;&lt;p&gt;But, alas, that is beside the point because I am here today to tell you how I created my bivariate choropleth color scheme. If you don’t know much about bivariate choropleth maps or want to make one yourself, I highly recommend &lt;a href=&quot;http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/&quot;&gt;Josh Stevens’ tutorial&lt;/a&gt;. It’s what I used to help me through the process, and it worked like a charm. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Creating a bivariate choropleth color scheme &lt;/b&gt;&lt;/p&gt;&lt;p&gt;First, you could start by looking at other people’s schemes. &lt;a href=&quot;http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/&quot;&gt;Josh’s tutorial&lt;/a&gt; has a bunch of great starter schemes at the bottom of the post. As far as I know, no one has intellectual property of choropleth color schemes, and maybe someone else spent a lot of time thinking about a great scheme - you can benefit from their hard work. &lt;/p&gt;&lt;p&gt;Here’s the one that I ended up with:&lt;/p&gt;&lt;img src=&quot;http://41.media.tumblr.com/b4a29e700458db07241f2f82f3d54ae2/tumblr_inline_nwlx96A7ci1sr0q4f_540.png&quot; alt=&quot;&quot;/&gt;&lt;p&gt;Here are some rules for a good bivariate color scheme:&lt;/p&gt;&lt;p&gt;1. &lt;i&gt;Don’t use more than 9 classes.&lt;/i&gt; Your legend should look like a 3x3 grid. More colors make it harder to distinguish between classes. The main idea here is for the map reader to think something like “oh it’s high in this variable but low in the other one” or “it’s high in both” but not necessarily for them to pull specific statistics out of your map. If you want them to look at specific statistics, give them a table.&lt;/p&gt;&lt;p&gt;2. &lt;i&gt;Each row and column should stand as its own choropleth color scheme&lt;/i&gt;. If you look at each row and column of the above color scheme (even the diagonal one!), they could each stand as their own univariate color scheme. For example: &lt;/p&gt;&lt;img src=&quot;http://40.media.tumblr.com/562c647985c4b849bfc428236fdfe0e1/tumblr_inline_nwlxdwg4q71sr0q4f_540.png&quot; alt=&quot;&quot;/&gt;&lt;p&gt;Would totally work on a univariate map. From left to right, the color is changing in value (aka how dark it is). Since darker typically = more, this means we can discern that as we go from pink to light purple to dark purple, there is more of that variable present. When I was playing around with the colors, I would cover up two of the rows and just look at one to see if it made sense (lighter to darker colors meaning increase in that variable). Same with the columns.&lt;/p&gt;&lt;p&gt;3. &lt;i&gt;Make sure the colors are distinguishable&lt;/i&gt;. Don’t have two colors so close together that you won’t be able to tell which one is which on the map. Try testing out your scheme on the map and identifying which state has which color. I found it helpful to make the darkest color darker than I thought it needed to be. &lt;/p&gt;&lt;p&gt;4. &lt;i&gt;Don’t reinvent the wheel&lt;/i&gt;. No need to create something from scratch. I tweaked one from &lt;a href=&quot;http://www.slideshare.net/aileenbuckley/arc-gis-bivariate-mapping-tools-28903069&quot;&gt;Aileen Buckley’s 2013 NACIS presentation&lt;/a&gt; (slide 20 has a bunch of ArcMap schemes). Josh’s tutorial has a bunch of starter schemes at the bottom. If you find colors in an image you like on the internet, you can always take a screenshot or save the image, then use the eyedropper tool in Illustrator to pull out the colors you want.&lt;/p&gt;&lt;p&gt;5. &lt;i&gt;Use gradients to find the middle colors&lt;/i&gt;. I found it wasn’t too hard to pick corner colors, but I needed a way to find the middle colors to make sure they were visually in the middle. So I used the gradient tool in Illustrator to create a rectangle with a gradient using the two corner colors. Then you go to &lt;i&gt;Object &amp;gt; Expand&lt;/i&gt; and you can basically turn this rectangle into a bunch of tiny rectangles. You can then use the eyedropper tool to grab the color in the middle of the gradient and that’s your middle color of your scheme. MAGIC. &lt;/p&gt;&lt;figure data-orig-width=&quot;1496&quot; data-orig-height=&quot;308&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://41.media.tumblr.com/d46b0cdff02841fcee76bd493cd7478b/tumblr_inline_nwlysl7PxU1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1496&quot; data-orig-height=&quot;308&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Here’s what I ended up with. The original ArcMap color scheme is on the left, and my tweaked one is on the right. &lt;/p&gt;&lt;figure data-orig-width=&quot;1034&quot; data-orig-height=&quot;518&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/463b1d8edd7301c11d291f8b12d2ac2f/tumblr_inline_nwlywt5jT01sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1034&quot; data-orig-height=&quot;518&quot;/&gt;&lt;/figure&gt;&lt;p&gt;If you want more explanation on any part of this, don’t hesitate to &lt;a href=&quot;http://tolomaps.com/about/&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;(Thanks to Josh Stevens, Aileen Buckley, Robert Roth, and Tanya Buckingham for your indirect or direct help!)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Oct 2015 02:26:17 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/10/22/creating-a-bivariate-choropleth-color-scheme.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/10/22/creating-a-bivariate-choropleth-color-scheme.html</guid>
+        
+        <category>choropleth map</category>
+        
+        <category>bivariate choropleth</category>
+        
+        <category>maps</category>
+        
+        <category>tutorial</category>
+        
+        <category>color scheme</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>playing around with bivariate color schemes its</title>
+        <description>&lt;img src=&quot;/tumblr_files/tumblr_nutuse4Ohw1t0aa2oo1_1280.png&quot;/&gt;&lt;br/&gt;&lt;p&gt;Playing around with bivariate color schemes. It’s really hard to get any reading done when I can be tweaking color combinations instead. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2015 11:24:14 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/09/17/playing-around-with-bivariate-color-schemes-its.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/09/17/playing-around-with-bivariate-color-schemes-its.html</guid>
+        
+        <category>colors</category>
+        
+        <category>color palette</category>
+        
+        <category>bivariate choropleth</category>
+        
+        <category>maps</category>
+        
+        <category>design</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>I&#39;m running for the NACIS 2015 board</title>
+        <description>&lt;p&gt;I am running for the &lt;a href=&quot;http://nacis.org/2015-ballot/&quot;&gt;2015 NACIS Board of Directors&lt;/a&gt; student representative position. 
+&lt;/p&gt;&lt;p&gt;Two years ago, I arrived at my first &lt;a href=&quot;http://nacis.org/&quot;&gt;NACIS&lt;/a&gt; meeting 6 months pregnant and without knowing anyone. I wasn&amp;rsquo;t sure what to expect: would I be able to meet people? Would the sessions be so boring that I&amp;rsquo;d be falling asleep? Would I feel out of place? &lt;/p&gt;&lt;p&gt;I came away from those 5 days feeling like I had just left adult summer camp. I&amp;rsquo;d had a blast and learned a ton. The people were laid-back and friendly, while at the same time knowledgeable and helpful. The conference was the perfect combination of professional and academic talks, mixed with nature strolls around Greenville, South Carolina, and fun evenings hanging out with fellow carto-nerds. At that meeting, I met with Rob Roth, who is now my advisor for a Master&amp;rsquo;s in Cartography &amp;amp; GIS at the University of Wisconsin-Madison. &lt;/p&gt;&lt;figure data-orig-width=&quot;1276&quot; data-orig-height=&quot;690&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://41.media.tumblr.com/67d91aeb03403017f505d2a324636cf2/tumblr_inline_ntyex2hBac1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1276&quot; data-orig-height=&quot;690&quot;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&quot;1142&quot; data-orig-height=&quot;1140&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/81298008edac8d401f376abaf1898440/tumblr_inline_ntyfikNA9L1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1142&quot; data-orig-height=&quot;1140&quot;/&gt;&lt;/figure&gt;&lt;p&gt;&lt;i&gt;At my first NACIS conference in Greenville, South Carolina, with some awesome cartographers.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Here I am, two years later, with another NACIS conference and my first year of grad school at UW-Madison under my belt. I am running for the board because I would love to give back to the organization that has given me so much these last couple of years. &lt;br/&gt;&lt;/p&gt;&lt;p&gt;If I&amp;rsquo;m elected, I hope to bring in students from a broader reach of universities that haven&amp;rsquo;t traditionally sent students to the annual meeting. As an undergrad at the University of Georgia, I loved my cartography classes, but didn&amp;rsquo;t actually know anyone who made a living as a cartographer. Bringing a wider variety of students to our conference would allow them to see the range of possibilities of what you can do as a cartographer. The conference sessions would expand on what they are learning in the classroom. They could make connections that could help guide them during and after school. NACIS already has a &lt;a href=&quot;http://nacis.org/community/university-labs/&quot;&gt;network of university cartography labs&lt;/a&gt; across the continent and &lt;a href=&quot;http://nacis.org/awards/grants/&quot;&gt;student travel grants&lt;/a&gt; to help students afford travel to the conference. But we should do a much better job of outreach. &lt;/p&gt;&lt;p&gt;Below is my formal bio for the ballot. &lt;a href=&quot;http://nacis.org/2015-ballot/&quot;&gt;Vote here&lt;/a&gt;! Elections are open until September 16th. &lt;/p&gt;&lt;p&gt;&amp;hellip;And if you&amp;rsquo;re not a NACIS member, you should &lt;a href=&quot;http://nacis.org/community/get-involved/&quot;&gt;join now&lt;/a&gt; and come to the &lt;a href=&quot;http://nacis.org/annual-meeting/current-meeting/&quot;&gt;2015 conference&lt;/a&gt; in Minneapolis!&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;I am a Master&amp;rsquo;s student in Cartography &amp;amp; GIS at UW–Madison. Before returning to grad school, I directed a mapping lab at a non-profit think tank in Bogota, Colombia, working on cartography projects on everything from renewable energy to corporate social responsibility. My current interests are in interactive cartography and UI/UX design, though my secret desire is to someday learn old-school methods of mapmaking that no one uses anymore. As the student representative on the NACIS board, I would like to attract students outside of the normal reach of the organization. NACIS has existing connections with university labs throughout the continent, and I would like to take advantage of these connections as a starting point to bring students that might not otherwise know about our annual meeting. I enjoy working as part of a team and would welcome the opportunity to give back to the organization that I fell in love with at my first conference in 2013, when my underdog GeoDweeb Geopardy! team came back to win it all.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 31 Aug 2015 12:28:48 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/08/31/im-running-for-the-nacis-2015-board.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/08/31/im-running-for-the-nacis-2015-board.html</guid>
+        
+        <category>nacis</category>
+        
+        <category>board election</category>
+        
+        <category>2015</category>
+        
+        <category>cartography</category>
+        
+        <category>maps</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>Data management is the problem that programming is supposed to solve. But of course now that we have computers everywhere, we keep generating more data, which requires more programming, and so forth. It’s a hell of a problem with no end in sight. This is why people in technology make so much money. Not only do they sell infinitely reproducible nothings, but they sell so many of them that they actually have to come up with new categories of infinitely reproducible nothings just to handle what happened with the last batch. That’s how we ended up with ‘big data.’ I’ve been to big-data conferences and they are packed.</title>
+        <description>&lt;blockquote&gt;Data management is the problem that programming is supposed to solve. But of course now that we have computers everywhere, we keep generating more data, which requires more programming, and so forth. It’s a hell of a problem with no end in sight. This is why people in technology make so much money. Not only do they sell infinitely reproducible nothings, but they sell so many of them that they actually have to come up with new categories of infinitely reproducible nothings just to handle what happened with the last batch. That’s how we ended up with &amp;lsquo;big data.&amp;rsquo; I’ve been to big-data conferences and they are packed.&lt;/blockquote&gt;&amp;#8212;&lt;a href=&quot;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&quot;&gt;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&lt;/a&gt;&lt;br/&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 22:07:17 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/06/14/data-management-is-the-problem-that-programming-is.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/06/14/data-management-is-the-problem-that-programming-is.html</guid>
+        
+        <category>programming</category>
+        
+        <category>coding</category>
+        
+        <category>data management</category>
+        
+        <category>big data</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>I&#39;m giving a talk at State of the Map and need your help!</title>
+        <description>&lt;p&gt;I&amp;rsquo;m giving a &lt;a href=&quot;http://stateofthemap.us/lightning-talks-sun&quot;&gt;lightning talk&lt;/a&gt; at my first ever &lt;a href=&quot;http://stateofthemap.us/&quot;&gt;State of the Map&lt;/a&gt; conference in a few weeks. I&amp;rsquo;ll be talking about how to organize and run a mapathon. I want to hear from people who have &lt;a href=&quot;https://www.surveymonkey.com/s/8YLRKKC&quot;&gt;organized&lt;/a&gt; or &lt;a href=&quot;https://www.surveymonkey.com/s/8QZYMLY&quot;&gt;participated&lt;/a&gt; in a mapathon so that I can draw from others&amp;rsquo; experience to provide the most relevant information during the talk. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Please take &lt;a href=&quot;https://www.surveymonkey.com/s/8YLRKKC&quot;&gt;this brief survey&lt;/a&gt;&lt;/b&gt; if you want to help others organize mapathons to improve OpenStreetMap! &lt;a href=&quot;https://www.surveymonkey.com/s/8QZYMLY&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.surveymonkey.com/s/8YLRKKC&quot;&gt;https://www.surveymonkey.com/s/8YLRKKC&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(or if you haven&amp;rsquo;t organized a mapathon but have participated in one, take &lt;a href=&quot;https://www.surveymonkey.com/s/8QZYMLY&quot;&gt;this survey&lt;/a&gt;)&lt;/p&gt;&lt;figure data-orig-width=&quot;2432&quot; data-orig-height=&quot;4320&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/a0b45d82586e31c01314d08209dc91ba/tumblr_inline_noltkjqLjO1sr0q4f_540.jpg&quot; alt=&quot;image&quot; data-orig-width=&quot;2432&quot; data-orig-height=&quot;4320&quot;/&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 19 May 2015 11:58:44 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/05/19/im-giving-a-talk-at-state-of-the-map-and-need.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/05/19/im-giving-a-talk-at-state-of-the-map-and-need.html</guid>
+        
+        <category>openstreetmap</category>
+        
+        <category>state of the map 2015</category>
+        
+        <category>mapathon</category>
+        
+        <category>talk</category>
+        
+        <category>survey</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>Turning 5,369,091 data points into a map</title>
+        <description>&lt;a href=&quot;http://quartzthings.tumblr.com/post/117718834614/turning-5-369-091-data-points-into-a-map&quot;&gt;Turning 5,369,091 data points into a map&lt;/a&gt;&lt;br/&gt;&lt;p&gt;&lt;a href=&quot;http://quartzthings.tumblr.com/post/117718834614/turning-5-369-091-data-points-into-a-map&quot; class=&quot;tumblr_blog&quot;&gt;quartzthings&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Yesterday I published two maps about&lt;a href=&quot;http://qz.com/392582/this-map-shows-where-the-strongest-earthquakes-are-expected-to-strike/&quot;&gt; global seismic hazard&lt;/a&gt;. &lt;/p&gt;
+&lt;figure data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/c905e5c5b902b450ab6fa064be43d256/tumblr_inline_nnl7j8ncj41qzrpyd_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/fadb1e5c2f9cd5f9ab87a19c0f4ba190/tumblr_inline_nnl7j82R6E1qzrpyd_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot;/&gt;&lt;/figure&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Here’s how I made them.&lt;/p&gt;
+&lt;p&gt;I was collaborating with Annalisa Merelli, she had been looking into other places at risk of major earthquakes following the devastation in Nepal and wasn’t finding much good to go by. The&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 04 May 2015 21:33:31 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/05/04/turning-5369091-data-points-into-a-map.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/05/04/turning-5369091-data-points-into-a-map.html</guid>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>Once again, OpenStreetMap wins in data accuracy</title>
+        <description>&lt;p&gt;The past few days, I’ve heard a lot about the amazing work that the &lt;a href=&quot;http://hot.openstreetmap.org/updates&quot;&gt;Humantarian OpenStreetMap Team&lt;/a&gt; is doing to fill out OSM data in Nepal following the earthquake there. I’ve participated a bit myself. If you’re interested in helping out with that, &lt;a href=&quot;http://maptime.io/blog/2015/04/27/help-HOT/&quot;&gt;this is a good place to start&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;But this post isn’t about that. It’s about the map of Colombia that I’m making (see previous post about &lt;a href=&quot;http://tolomaps.tumblr.com/post/116446854838/hillshade-in-qgis&quot;&gt;making a hillshade in QGIS&lt;/a&gt;). &lt;/p&gt;&lt;p&gt;I want to include rivers on my map and was trying to figure out the best data source for the rivers. The thing about including rivers on terrain maps is that they have to align really well with the terrain, or it looks funny. Below, the blue line is from &lt;a href=&quot;http://www.naturalearthdata.com/downloads/&quot;&gt;Natural Earth&lt;/a&gt;, which is often my initial go-to source for data. The yellow line is from &lt;a href=&quot;http://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html&quot;&gt;NOAA’&lt;/a&gt;s Global Self-consistent, Hierarchical, High-resolution Geography Database. You can see how “high-resolution” that yellow line is.&lt;/p&gt;&lt;figure data-orig-width=&quot;1982&quot; data-orig-height=&quot;1280&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://41.media.tumblr.com/fbe47c263700a3410a5045b9a1af9675/tumblr_inline_nnlr3wp63l1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1982&quot; data-orig-height=&quot;1280&quot;/&gt;&lt;/figure&gt;&lt;p&gt;But clearly these didn’t really fit the bill. I can see from the terrain where the river runs, and neither of those lines come even close. That’s when I turned to OpenStreetMap. Note the green line below.&lt;/p&gt;&lt;figure data-orig-width=&quot;1948&quot; data-orig-height=&quot;1260&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://36.media.tumblr.com/3d4233c560551472da2382d512eee9e6/tumblr_inline_nnlqurRBq91sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1948&quot; data-orig-height=&quot;1260&quot;/&gt;&lt;/figure&gt;&lt;p&gt;It fits perfectly with the terrain. There are some areas of the country that will need to be cleaned up - the OpenStreetMap data includes too many rivers for a country-level map - but I’d rather start with more data than I need and work my way down.&lt;/p&gt;&lt;p&gt;So, you may be wondering - how did I actually download all of the rivers for Colombia? There’s an amazing tool called &lt;a href=&quot;http://overpass-turbo.eu/&quot;&gt;Overpass Turbo&lt;/a&gt;, which allows you to query specific OpenStreetMap data. So, for example, I could say, “I want to get all the rivers in Colombia!” and it’ll let me do that. It turns out that if you don’t really feel like learning how to do the querying within the API itself, there’s a plugin for QGIS that makes it even easier, called &lt;a href=&quot;https://plugins.qgis.org/plugins/QuickOSM/&quot;&gt;QuickOSM&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;To get it yourself, go to Plugins &amp;gt; Manage and Install Plugins. In the search box, search for QuickOSM. Select QuickOSM and then press the Install plugin button. &lt;/p&gt;&lt;figure data-orig-width=&quot;2560&quot; data-orig-height=&quot;1550&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://41.media.tumblr.com/0e6b64abfc5f8cfb08dd1b7463ece20a/tumblr_inline_nnlrxcYbtD1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;2560&quot; data-orig-height=&quot;1550&quot;/&gt;&lt;/figure&gt;&lt;p&gt;To access the plugin, go to Web &amp;gt; Quick OSM &amp;gt; Quick OSM.&lt;/p&gt;&lt;figure data-orig-width=&quot;2556&quot; data-orig-height=&quot;1590&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://36.media.tumblr.com/8ed51e20b42d8e307ad215e1f7248070/tumblr_inline_nnls27iasC1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;2556&quot; data-orig-height=&quot;1590&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Then you can define the type of data that you want to get. In my example, I want the key = waterway and the value = river. I opt to just download the rivers in the extent of the map canvas and make sure that I have all of Colombia showing. Then just hit Run query. If you don’t know anything about key/value pairs, click on the “Help with key/value” button, and it will take you to &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Map_Features&quot;&gt;this page&lt;/a&gt;, which explains how different features are categorized in OSM. Or send me a shoutout on Twitter and I’ll do what I can to help you.&lt;/p&gt;&lt;figure data-orig-width=&quot;1510&quot; data-orig-height=&quot;1226&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://36.media.tumblr.com/e04ab00e002973e6882b6edaf9189163/tumblr_inline_nnls77y7FU1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1510&quot; data-orig-height=&quot;1226&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Depending on the size of your query, the query may timeout - basically, it was taking too long to try and get that data from OSM. In this case, you can try increasing the amount of time that the plugin spends on the query. To do this, click the Show query button, which will take you to the Query tab of the plugin. &lt;/p&gt;&lt;figure data-orig-width=&quot;1508&quot; data-orig-height=&quot;1224&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/e4bc507576756b8833c2df19abe101a1/tumblr_inline_nnlse3Ncj01sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1508&quot; data-orig-height=&quot;1224&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Notice that in the top line, it says timeout= &amp;ldquo;25″. This is the number of seconds that the plugin will spend trying to run your query. I just typed in 60 instead of 25, then hit Run query, and that was enough time to get the data I needed. Yippee!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Addendum:&lt;br/&gt;&lt;/i&gt;As I’m working my way through and cleaning up the rivers in Illustrator, I should point out that there are some areas where the Natural Earth area is better because the OSM data is incomplete. In general, for the case of Colombia, I have found that the OSM rivers are more detailed, but often disjointed. So my final map will be a combination of the Natural Earth and the OSM data, depending on the particular area.&lt;/p&gt;&lt;figure data-orig-width=&quot;1080&quot; data-orig-height=&quot;879&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/1c7b71943fcb9baab9622966bb7c29fb/tumblr_inline_nnlwvmYXfs1sr0q4f_540.png&quot; data-orig-width=&quot;1080&quot; data-orig-height=&quot;879&quot;/&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Thu, 30 Apr 2015 01:03:48 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/04/30/once-again-openstreetmap-wins-in-data-accuracy.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/04/30/once-again-openstreetmap-wins-in-data-accuracy.html</guid>
+        
+        <category>openstreetmap</category>
+        
+        <category>qgis</category>
+        
+        <category>colombia</category>
+        
+        <category>rivers</category>
+        
+        <category>overpass turbo</category>
+        
+        <category>waterway</category>
+        
+        <category>tutorial</category>
+        
+        <category>accuracy</category>
+        
+        <category>maps</category>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+      <item>
+        <title>Stop Blowhard Syndrome</title>
+        <description>&lt;a href=&quot;http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome&quot;&gt;Stop Blowhard Syndrome&lt;/a&gt;&lt;br/&gt;&lt;p&gt;&lt;a href=&quot;http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome&quot; class=&quot;tumblr_blog&quot;&gt;xuhulk&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;When I express any shred of doubt about whether I deserve or am qualified for something, people often try to reassure me that I am just experiencing impostor syndrome. About 10% of the time, it’s true. &lt;a href=&quot;http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now&quot;&gt;Amelia Greenhall’s excellent piece&lt;/a&gt;, however, has inspired me to clear up a big misconception&amp;hellip;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2015 13:01:36 -0500</pubDate>
+        <link>http://yourdomain.com/tumblr/2015/04/28/stop-blowhard-syndrome.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tumblr/2015/04/28/stop-blowhard-syndrome.html</guid>
+        
+        
+        <category>tumblr</category>
+        
+      </item>
+    
+  </channel>
+</rss>
