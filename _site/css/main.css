@@ -12,6 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+  padding-top: 50px;
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
@@ -456,6 +457,12 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.jumbotron {
+  background-image: url("../../assets/img/background_purple.png");
+  background-size: cover; }
+  .jumbotron .container {
+    color: white; }
 
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
