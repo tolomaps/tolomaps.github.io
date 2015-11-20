@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  padding-top: 50px;
+  padding-top: 60px;
   font: 400 16px/1.5 "Source Sans Pro", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
@@ -5945,11 +5945,11 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-.jumbotron {
+.jumbotron-home {
   background-image: url("../../assets/img/background_purple.png");
   background-size: cover;
   min-height: 500px; }
-  .jumbotron .container {
+  .jumbotron-home .container {
     color: #fff; }
 
 .jumbotron-heading {
@@ -6129,6 +6129,21 @@ button.close {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.portfolio-page p {
+  font-size: 19.2px; }
+.portfolio-page .portfolio-caption {
+  text-align: center;
+  font-size: 16px;
+  font-style: italic;
+  color: #828282; }
+.portfolio-page .portfolio-asset {
+  text-align: center;
+  margin-bottom: 0; }
+
+.portfolio-link {
+  margin-top: 0;
+  text-align: center; }
 
 /**
  * Syntax highlighting styles

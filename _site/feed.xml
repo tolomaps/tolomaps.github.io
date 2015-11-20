@@ -6,9 +6,56 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Nov 2015 23:34:36 -0600</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2015 23:34:36 -0600</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2015 00:46:38 -0600</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 00:46:38 -0600</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>The Real Cost of Child Care</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;About:&lt;/strong&gt;
+This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map. &lt;a href=&quot;../../../../assets/portfolio/cost-of-childcare-infographic.pdf&quot;&gt;See and download the PDF here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+Read about &lt;a href=&quot;/blog/tumblr/2015/10/22/creating-a-bivariate-choropleth-color-scheme.html&quot;&gt;my process for creating a bivariate choropleth color scheme&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
+In 1971, Congress passed a bipartisan bill that would have “established a network of nationally funded, locally administered, comprehensive child care centers, which were to provide quality education, nutrition, and medical services.” And then Nixon vetoed it, because he said that children should be raised by family (read: women shouldn’t work). We were so close to universal public child care. It’s never been on the table since then, even though we provide free, public education to all children starting in kindergarten. Why shouldn’t we start earlier?&lt;/p&gt;
+
+&lt;p&gt;I started working on this project as a selfish exploration (paying for child care is expensive), but the more I learned, the more I think this should be a national priority. Providing young kids with high-quality child care is the best thing that we can do for their long-term development and our country’s future economy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/cost-of-childcare-infographic.png&quot; alt=&quot;The Real Cost of Childcare&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>India Lights</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/india-nighttime.png&quot; alt=&quot;India night lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
+
+&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;br /&gt;
+\&lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;portfolio-caption&quot;&gt;This interactive Leaflet map slider shows the low resolution nighttime imagery on top of high resolution daytime imagery to give a sense of the scale of the data.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+(Note: The website has not been opened to the public yet, which is why I cannot link to the live site.)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/11/19/india-lights.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/19/india-lights.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -204,56 +251,6 @@
         <pubDate>Mon, 04 May 2015 21:33:31 -0500</pubDate>
         <link>http://tolomaps.github.io/blog/tumblr/2015/05/04/turning-5369091-data-points-into-a-map.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/blog/tumblr/2015/05/04/turning-5369091-data-points-into-a-map.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>tumblr</category>
-        
-      </item>
-    
-      <item>
-        <title>Once again, OpenStreetMap wins in data accuracy</title>
-        <description>&lt;p&gt;The past few days, I’ve heard a lot about the amazing work that the &lt;a href=&quot;http://hot.openstreetmap.org/updates&quot;&gt;Humantarian OpenStreetMap Team&lt;/a&gt; is doing to fill out OSM data in Nepal following the earthquake there. I’ve participated a bit myself. If you’re interested in helping out with that, &lt;a href=&quot;http://maptime.io/blog/2015/04/27/help-HOT/&quot;&gt;this is a good place to start&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;But this post isn’t about that. It’s about the map of Colombia that I’m making (see previous post about &lt;a href=&quot;http://tolomaps.tumblr.com/post/116446854838/hillshade-in-qgis&quot;&gt;making a hillshade in QGIS&lt;/a&gt;). &lt;/p&gt;&lt;p&gt;I want to include rivers on my map and was trying to figure out the best data source for the rivers. The thing about including rivers on terrain maps is that they have to align really well with the terrain, or it looks funny. Below, the blue line is from &lt;a href=&quot;http://www.naturalearthdata.com/downloads/&quot;&gt;Natural Earth&lt;/a&gt;, which is often my initial go-to source for data. The yellow line is from &lt;a href=&quot;http://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html&quot;&gt;NOAA’&lt;/a&gt;s Global Self-consistent, Hierarchical, High-resolution Geography Database. You can see how “high-resolution” that yellow line is.&lt;/p&gt;&lt;figure data-orig-width=&quot;1982&quot; data-orig-height=&quot;1280&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://41.media.tumblr.com/fbe47c263700a3410a5045b9a1af9675/tumblr_inline_nnlr3wp63l1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1982&quot; data-orig-height=&quot;1280&quot;/&gt;&lt;/figure&gt;&lt;p&gt;But clearly these didn’t really fit the bill. I can see from the terrain where the river runs, and neither of those lines come even close. That’s when I turned to OpenStreetMap. Note the green line below.&lt;/p&gt;&lt;figure data-orig-width=&quot;1948&quot; data-orig-height=&quot;1260&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://36.media.tumblr.com/3d4233c560551472da2382d512eee9e6/tumblr_inline_nnlqurRBq91sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1948&quot; data-orig-height=&quot;1260&quot;/&gt;&lt;/figure&gt;&lt;p&gt;It fits perfectly with the terrain. There are some areas of the country that will need to be cleaned up - the OpenStreetMap data includes too many rivers for a country-level map - but I’d rather start with more data than I need and work my way down.&lt;/p&gt;&lt;p&gt;So, you may be wondering - how did I actually download all of the rivers for Colombia? There’s an amazing tool called &lt;a href=&quot;http://overpass-turbo.eu/&quot;&gt;Overpass Turbo&lt;/a&gt;, which allows you to query specific OpenStreetMap data. So, for example, I could say, “I want to get all the rivers in Colombia!” and it’ll let me do that. It turns out that if you don’t really feel like learning how to do the querying within the API itself, there’s a plugin for QGIS that makes it even easier, called &lt;a href=&quot;https://plugins.qgis.org/plugins/QuickOSM/&quot;&gt;QuickOSM&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;To get it yourself, go to Plugins &amp;gt; Manage and Install Plugins. In the search box, search for QuickOSM. Select QuickOSM and then press the Install plugin button. &lt;/p&gt;&lt;figure data-orig-width=&quot;2560&quot; data-orig-height=&quot;1550&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://41.media.tumblr.com/0e6b64abfc5f8cfb08dd1b7463ece20a/tumblr_inline_nnlrxcYbtD1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;2560&quot; data-orig-height=&quot;1550&quot;/&gt;&lt;/figure&gt;&lt;p&gt;To access the plugin, go to Web &amp;gt; Quick OSM &amp;gt; Quick OSM.&lt;/p&gt;&lt;figure data-orig-width=&quot;2556&quot; data-orig-height=&quot;1590&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://36.media.tumblr.com/8ed51e20b42d8e307ad215e1f7248070/tumblr_inline_nnls27iasC1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;2556&quot; data-orig-height=&quot;1590&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Then you can define the type of data that you want to get. In my example, I want the key = waterway and the value = river. I opt to just download the rivers in the extent of the map canvas and make sure that I have all of Colombia showing. Then just hit Run query. If you don’t know anything about key/value pairs, click on the “Help with key/value” button, and it will take you to &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Map_Features&quot;&gt;this page&lt;/a&gt;, which explains how different features are categorized in OSM. Or send me a shoutout on Twitter and I’ll do what I can to help you.&lt;/p&gt;&lt;figure data-orig-width=&quot;1510&quot; data-orig-height=&quot;1226&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://36.media.tumblr.com/e04ab00e002973e6882b6edaf9189163/tumblr_inline_nnls77y7FU1sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1510&quot; data-orig-height=&quot;1226&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Depending on the size of your query, the query may timeout - basically, it was taking too long to try and get that data from OSM. In this case, you can try increasing the amount of time that the plugin spends on the query. To do this, click the Show query button, which will take you to the Query tab of the plugin. &lt;/p&gt;&lt;figure data-orig-width=&quot;1508&quot; data-orig-height=&quot;1224&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/e4bc507576756b8833c2df19abe101a1/tumblr_inline_nnlse3Ncj01sr0q4f_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1508&quot; data-orig-height=&quot;1224&quot;/&gt;&lt;/figure&gt;&lt;p&gt;Notice that in the top line, it says timeout= &amp;ldquo;25″. This is the number of seconds that the plugin will spend trying to run your query. I just typed in 60 instead of 25, then hit Run query, and that was enough time to get the data I needed. Yippee!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Addendum:&lt;br/&gt;&lt;/i&gt;As I’m working my way through and cleaning up the rivers in Illustrator, I should point out that there are some areas where the Natural Earth area is better because the OSM data is incomplete. In general, for the case of Colombia, I have found that the OSM rivers are more detailed, but often disjointed. So my final map will be a combination of the Natural Earth and the OSM data, depending on the particular area.&lt;/p&gt;&lt;figure data-orig-width=&quot;1080&quot; data-orig-height=&quot;879&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/1c7b71943fcb9baab9622966bb7c29fb/tumblr_inline_nnlwvmYXfs1sr0q4f_540.png&quot; data-orig-width=&quot;1080&quot; data-orig-height=&quot;879&quot;/&gt;&lt;/figure&gt;
-</description>
-        <pubDate>Thu, 30 Apr 2015 01:03:48 -0500</pubDate>
-        <link>http://tolomaps.github.io/blog/tumblr/2015/04/30/once-again-openstreetmap-wins-in-data-accuracy.html</link>
-        <guid isPermaLink="true">http://tolomaps.github.io/blog/tumblr/2015/04/30/once-again-openstreetmap-wins-in-data-accuracy.html</guid>
-        
-        <category>openstreetmap</category>
-        
-        <category>qgis</category>
-        
-        <category>colombia</category>
-        
-        <category>rivers</category>
-        
-        <category>overpass turbo</category>
-        
-        <category>waterway</category>
-        
-        <category>tutorial</category>
-        
-        <category>accuracy</category>
-        
-        <category>maps</category>
-        
-        
-        <category>blog</category>
-        
-        <category>tumblr</category>
-        
-      </item>
-    
-      <item>
-        <title>Stop Blowhard Syndrome</title>
-        <description>&lt;a href=&quot;http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome&quot;&gt;Stop Blowhard Syndrome&lt;/a&gt;&lt;br/&gt;&lt;p&gt;&lt;a href=&quot;http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome&quot; class=&quot;tumblr_blog&quot;&gt;xuhulk&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;When I express any shred of doubt about whether I deserve or am qualified for something, people often try to reassure me that I am just experiencing impostor syndrome. About 10% of the time, it’s true. &lt;a href=&quot;http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now&quot;&gt;Amelia Greenhall’s excellent piece&lt;/a&gt;, however, has inspired me to clear up a big misconception&amp;hellip;&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 28 Apr 2015 13:01:36 -0500</pubDate>
-        <link>http://tolomaps.github.io/blog/tumblr/2015/04/28/stop-blowhard-syndrome.html</link>
-        <guid isPermaLink="true">http://tolomaps.github.io/blog/tumblr/2015/04/28/stop-blowhard-syndrome.html</guid>
         
         
         <category>blog</category>
