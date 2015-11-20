@@ -8,7 +8,7 @@ alt: The Real Cost of Childcare infographic
 ---
 \\
 **About:**
-This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map. [See and download the PDF here](../../../../assets/portfolio/cost-of-childcare-infographic.pdf).
+This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map. 
 
 **Process:**
 Read about [my process for creating a bivariate choropleth color scheme]({% post_url /blog/2015-10-22-creating-a-bivariate-choropleth-color-scheme %}).
