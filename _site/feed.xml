@@ -6,15 +6,15 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Nov 2015 01:02:51 -0600</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2015 01:02:51 -0600</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2015 17:10:11 -0600</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2015 17:10:11 -0600</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>The Real Cost of Child Care</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;strong&gt;About:&lt;/strong&gt;
-This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map. &lt;/p&gt;
+This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
 Read about &lt;a href=&quot;/blog/tumblr/2015/10/22/creating-a-bivariate-choropleth-color-scheme.html&quot;&gt;my process for creating a bivariate choropleth color scheme&lt;/a&gt;.&lt;/p&gt;
@@ -29,28 +29,6 @@ In 1971, Congress passed a bipartisan bill that would have “established a netw
         <pubDate>Fri, 20 Nov 2015 00:00:00 -0600</pubDate>
         <link>http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</guid>
-        
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>India Lights</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/india-nighttime.png&quot; alt=&quot;India night lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
-
-&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;br /&gt;
-\&lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;portfolio-caption&quot;&gt;This interactive Leaflet map slider shows the low resolution nighttime imagery on top of high resolution daytime imagery to give a sense of the scale of the data.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-(Note: The website has not been opened to the public yet, which is why I cannot link to the live site.)&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Nov 2015 00:00:00 -0600</pubDate>
-        <link>http://tolomaps.github.io/portfolio/2015/11/19/india-lights.html</link>
-        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/19/india-lights.html</guid>
         
         
         <category>portfolio</category>
@@ -190,6 +168,45 @@ While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Developm
       </item>
     
       <item>
+        <title>Astro Digital</title>
+        <description>&lt;p&gt;Astro Digital was the main client that I worked with while doing a 2015 summer fellowship at &lt;a href=&quot;http://www.developmentseed.org&quot;&gt;Development Seed&lt;/a&gt;. It’s a start-up that lets you easily search and publish satellite imagery through their &lt;a href=&quot;https://fetch.astrodigital.com/&quot;&gt;imagery browser&lt;/a&gt;. My main role on the project was working on the user profile accounts, where you can store all of your published maps in one place and set alerts to let you know when new imagery is available in areas that you want to track.&lt;/p&gt;
+
+&lt;p&gt;I led the discussion on how to direct users through the website and create a cohesive experience. When I came on the project, there was no connection between the imagery browser and the user profile, which were built as two separate applications. The two platforms looked and felt detached from each other. I created wireframes for how the site should flow from one platform to the other to create a seamless experience. This also included figuring out how users should create accounts and log in.&lt;/p&gt;
+
+&lt;p&gt;The imagery browser originally had the interactive map on the left-hand side of the page, with the available imagery on the right-hand side. It also had the filter buttons on the top menu bar.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/08/15/astro-digital.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/08/15/astro-digital.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>India Lights</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/india-nighttime.png&quot; alt=&quot;India night lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
+
+&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;br /&gt;
+\&lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;portfolio-caption&quot;&gt;This interactive Leaflet map slider shows the low resolution nighttime imagery on top of high resolution daytime imagery to give a sense of the scale of the data.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+(Note: The website has not been opened to the public yet, which is why I cannot link to the live site.)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/07/01/india-lights.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/07/01/india-lights.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
         <title>Data management is the problem that programming is supposed to solve. But of course now that we have computers everywhere, we keep generating more data, which requires more programming, and so forth. It’s a hell of a problem with no end in sight. This is why people in technology make so much money. Not only do they sell infinitely reproducible nothings, but they sell so many of them that they actually have to come up with new categories of infinitely reproducible nothings just to handle what happened with the last batch. That’s how we ended up with ‘big data.’ I’ve been to big-data conferences and they are packed.</title>
         <description>&lt;blockquote&gt;Data management is the problem that programming is supposed to solve. But of course now that we have computers everywhere, we keep generating more data, which requires more programming, and so forth. It’s a hell of a problem with no end in sight. This is why people in technology make so much money. Not only do they sell infinitely reproducible nothings, but they sell so many of them that they actually have to come up with new categories of infinitely reproducible nothings just to handle what happened with the last batch. That’s how we ended up with &amp;lsquo;big data.&amp;rsquo; I’ve been to big-data conferences and they are packed.&lt;/blockquote&gt;&amp;#8212;&lt;a href=&quot;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&quot;&gt;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&lt;/a&gt;&lt;br/&gt;
 </description>
@@ -229,28 +246,6 @@ While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Developm
         <category>talk</category>
         
         <category>survey</category>
-        
-        
-        <category>blog</category>
-        
-        <category>tumblr</category>
-        
-      </item>
-    
-      <item>
-        <title>Turning 5,369,091 data points into a map</title>
-        <description>&lt;a href=&quot;http://quartzthings.tumblr.com/post/117718834614/turning-5-369-091-data-points-into-a-map&quot;&gt;Turning 5,369,091 data points into a map&lt;/a&gt;&lt;br/&gt;&lt;p&gt;&lt;a href=&quot;http://quartzthings.tumblr.com/post/117718834614/turning-5-369-091-data-points-into-a-map&quot; class=&quot;tumblr_blog&quot;&gt;quartzthings&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yesterday I published two maps about&lt;a href=&quot;http://qz.com/392582/this-map-shows-where-the-strongest-earthquakes-are-expected-to-strike/&quot;&gt; global seismic hazard&lt;/a&gt;. &lt;/p&gt;
-&lt;figure data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/c905e5c5b902b450ab6fa064be43d256/tumblr_inline_nnl7j8ncj41qzrpyd_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot; class=&quot;tmblr-full&quot;&gt;&lt;img src=&quot;http://40.media.tumblr.com/fadb1e5c2f9cd5f9ab87a19c0f4ba190/tumblr_inline_nnl7j82R6E1qzrpyd_540.png&quot; alt=&quot;image&quot; data-orig-width=&quot;1280&quot; data-orig-height=&quot;800&quot;/&gt;&lt;/figure&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Here’s how I made them.&lt;/p&gt;
-&lt;p&gt;I was collaborating with Annalisa Merelli, she had been looking into other places at risk of major earthquakes following the devastation in Nepal and wasn’t finding much good to go by. The&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Mon, 04 May 2015 21:33:31 -0500</pubDate>
-        <link>http://tolomaps.github.io/blog/tumblr/2015/05/04/turning-5369091-data-points-into-a-map.html</link>
-        <guid isPermaLink="true">http://tolomaps.github.io/blog/tumblr/2015/05/04/turning-5369091-data-points-into-a-map.html</guid>
         
         
         <category>blog</category>
