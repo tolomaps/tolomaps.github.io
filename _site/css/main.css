@@ -1,4 +1,7 @@
 @charset "UTF-8";
+.about-page p {
+  font-size: 19.2px; }
+
 /**
  * Reset some basic elements
  */
