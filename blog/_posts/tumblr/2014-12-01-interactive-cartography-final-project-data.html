@@ -1,0 +1,60 @@
+---
+layout: post
+title: 'Interactive Cartography Final Project: Data + Geocoding'
+date: '2014-12-01T17:09:00-06:00'
+tags:
+- geocoding
+- abortion
+- crisis pregnancy centers
+- csv
+- geojson
+- data
+- maps
+- yourbodynotyourchoice
+tumblr_url: http://tolomaps.tumblr.com/post/104104145998/interactive-cartography-final-project-data
+---
+<p><em>This is the first post in a series to document the process of completing a group final project for the Interactive Cartography &amp; Geovisualization class I&rsquo;m taking this semester. If you don&rsquo;t feel like reading the tedious stuff, just skip to my conclusions at the end.</em></p>
+<p><strong>Step 1: Have an idea.</strong></p>
+<p>Usually my ideas form slowly, over time, but this one came in an instant. How about we create a map like <a href="http://50yearsofchange.com/" title="50 Years of Change" target="_blank">50 Years of Change</a>, but for abortion?! Tracking the state policy shifts around abortion in the U.S. since Roe v. Wade, mapping existing abortion providers, plus other relevant information, yadda yadda. Work with two of the best cartographers around, <a href="https://twitter.com/KatieKowalsky" title="Twitter: Katie Kowalsky" target="_blank">Katie Kowalsky</a> and <a href="https://twitter.com/dylanmoriarty" title="Twitter: Dylan Moriarty" target="_blank">Dylan Moriarty</a>. It&rsquo;s going to be epic! </p>
+<p><strong>Step 2: Gather the data.</strong></p>
+<p>I&rsquo;ve been telling the students in my Introduction to Cartography class that 80% of creating a map is spent gathering and cleaning the data. This might be a bit of an exaggeration, but finding [accurate, relevant, available] data is a huge portion of the map-making process. </p>
+<p>I was in charge of gathering the data for abortion providers. Initially, we wanted to show the change in abortion providers over time (ostensibly to see if there was a decrease over time and where these changes were happening). First, I tried contacting the <a href="http://www.guttmacher.org/" title="Guttmacher Institute" target="_blank">Guttmacher Institute</a>. They have a comprehensive list of abortion providers but they said:</p>
+<blockquote>
+<p>Due to confidentiality agreements made with providers, we cannot release abortion clinic data beyond the state level</p>
+</blockquote>
+<p>Alright, I understand. They&rsquo;re afraid that people would use that information to protest or attack abortion providers. But I didn&rsquo;t want exact location information, I just wanted a count of how many clinics were in each city. Not to be deterred, I tried the academic route, submitting a formal request to Guttmacher. To no avail.</p>
+<p>From there, I turned to the National Abortion Federation's <a href="http://prochoice.org/think-youre-pregnant/find-a-provider/" title="National Abortion Federation provider listing" target="_blank">provider listing</a>, as well as Planned Parenthood's <a href="http://www.plannedparenthood.org/health-center/WI" title="Planned Parenthood: Wisconsin providers" target="_blank">providers</a>. I copy/pasted the name of the provider as well as the city and state to a spreadsheet. Yes, this was extremely tedious (and yes, my loving, supportive husband helped). Yes, I&rsquo;m sure I could&rsquo;ve coded my way out of it if I knew how to scrape data, but I didn&rsquo;t know how. So I went state-by-state for each of these websites and copy/pasted each provider. I only included <span id="docs-internal-guid-86dbdecc-07aa-6129-c650-46de45a3696c">Planned Parenthood locations that offer abortion services. These locations were cross-checked with NAF&rsquo;s data to ensure that there were no duplicates. I also collected a few abortion providers are from <a href="http://www.gynpages.com/">GynPages</a> and <a href="http://www.abortionclinicpages.com/">abortionclinicpages.com</a>. <span id="docs-internal-guid-86dbdecc-07b8-e01e-e798-e31444d726f9">I&rsquo;m pretty sure that much of the discrepancy between our number and the complete number is due to hospitals and private physicians&rsquo; offices that do not belong to the National Abortion Federation. </span></span></p>
+<p><img alt="image" src="http://38.media.tumblr.com/2c293dff6eca0775907e0ab133d618e3/tumblr_inline_nfxa5269GR1sr0q4f.png"/></p>
+<p><img alt="image" src="http://33.media.tumblr.com/4c6b8d6b8f8b69c1ab4f8876eb186bea/tumblr_inline_nfxagzYlHb1sr0q4f.png"/></p>
+<p><span>I know that this is not a comprehensive list of abortion providers in the U.S., but it&rsquo;s the best that I could get with my limited resources and short time frame.</span></p>
+<p><span>One thing that I did not do was collect providers from </span><span></span><a href="http://abortiondocs.org/">http://abortiondocs.org/</a><span>, which claims to have &ldquo;The largest collection of documents on America&rsquo;s abortion cartel.&rdquo; HA! Abortion cartel. Hadn&rsquo;t heard that one before. Anyway, I&rsquo;d rather have less complete data than use whatever crap they&rsquo;re spitting out that probably isn&rsquo;t trustworthy at all.</span></p>
+<p>In the course of my data-sleuthing, I came across this whole concept of <a href="http://en.wikipedia.org/wiki/Crisis_pregnancy_center" title="Wikipedia: Crisis Pregnancy Centers" target="_blank">crisis pregnancy centers</a> (CPCs) and wanted to map those, too. Turns out these were muuuch easier to get from <a href="http://www.heartbeatservices.org/" title="Heartbeat International" target="_blank">Heartbeat International</a> and <a href="http://birthright.org/en/search-birthrights?view=search" title="Birthright International" target="_blank">Birthright Interntional</a> than viable abortion provider data - my assumption is that these places want to be found, so they make it easy to find them.</p>
+<p><em>Search for CPCs on Heartbeat International&rsquo;s <a href="http://www.heartbeatinternational.org/worldwide-directory" title="Heartbeat International Worldwide Directory" target="_blank">Worldwide Directory</a>:</em></p>
+<p><img alt="image" src="http://31.media.tumblr.com/3cd5a97ca4f7c762f31af82536027b4d/tumblr_inline_nfxamuLoEB1sr0q4f.png"/></p>
+<p><em>Result:</em></p>
+<p><img alt="image" src="http://38.media.tumblr.com/d02a15f6a7e4f5be255eb83fbc6c54d4/tumblr_inline_nfxamikQT51sr0q4f.png"/></p>
+<p><strong>Step 3: Prep the data</strong></p>
+<p>After all that gathering, I had two spreadsheets: one with a list of abortion providers, city, and state, and another with CPCs, city, and state. Now I needed a count of each type for each city. Here I was at a similar point as before: do I do this by hand, or is there a faster way to code it? <a href="https://twitter.com/johnjcz" title="Twitter" target="_blank">John</a> and <a href="https://twitter.com/vancematthews" title="Twitter" target="_blank">Sam</a> both recommended that I separate the geographic data from the metadata so that it loads faster on the web. <a href="https://twitter.com/johnjcz" title="Twitter" target="_blank">John</a> graciously sent me &ldquo;<a href="https://gist.github.com/jczaplew/6d5cc6d324541cbc8fb4" title="jczaplew's GitHub" target="_blank">a little script</a>&rdquo; to group the number of clinics per city. Though I&rsquo;m learning Python right now, with the time crunch of this project, I knew I couldn&rsquo;t sit there and figure out the coding aspect of it. So I did it by hand in Excel (with some shortcuts that aren&rsquo;t really worth going into) and ended up with two new spreadsheets, one each for my CPCs and abortion providers, with each row representing a unique city, state, and count of providers in that city. </p>
+<p><strong>Step 4: Geocoding</strong></p>
+<p>I had no idea how I was going to get the latitude/longitude coordinates for all of these cities. I went through various ideas:</p>
+<p>Download places from <a href="http://naturalearthdata.com" title="Natural Earth" target="_blank">Natural Earth</a>? (Nope, doesn&rsquo;t include all the small towns/cities that I needed) </p>
+<p>Download <a href="https://www.census.gov/geo/maps-data/data/cbf/cbf_place.html" title="U.S. Census designated places" target="_blank">U.S. Census designated places</a>? (Ugh, I&rsquo;d have to download them one-by-one)</p>
+<p>Even if I&rsquo;d gone for either of those two options, I would&rsquo;ve still had to join the lat/long data with the count for each city, which would&rsquo;ve been tedious and probably filled with errors. I needed to geocode but didn&rsquo;t know how to do it.</p>
+<p>Enter: asking for help on Twitter. I was pointed to <a href="http://geocod.io" title="geocod.io" target="_blank">geocod.io</a>, an online geocoder that gives you up to 2,500 free geocoded addresses per day. It&rsquo;s not the most accurate, but for the scale we&rsquo;re mapping it doesn&rsquo;t matter. And they make it super easy, just upload a CSV with my city and state names, and they spit back out the lat/lon. </p>
+<p><em>Geocod.io working its magic:</em></p>
+<p><img alt="image" src="http://33.media.tumblr.com/2c587e5b5615bfddfb22af4e1987793b/tumblr_inline_nfxc1cAU4G1sr0q4f.png"/></p>
+<p>Geocod.io then spits out another CSV, this one with latitude/longitude data. I almost wept tears of joy.</p>
+<p>This CSV also has a handy little column for each attribute that states its accuracy score on a scale of 0-1, with 0 being not at all accurate (as in, not geocoded) and 1 being pretty darn accurate. So I filtered through the dataset and double-checked any city that had an accuracy score less than 1. I also did this by hand in the way that most people today confirm where something is located: Google Maps.</p>
+<p><img alt="image" src="http://31.media.tumblr.com/a380dbdaf1063debf6a2eb2d619f0e82/tumblr_inline_nfxfolp4tn1sr0q4f.png"/></p>
+
+<p><span>If you look in the URL anytime you are on Google Maps, the latitude and longitude are actually embedded there (so in the example above, you can see that Coon Rapids, MN is at 45.1655851 degrees north and -93.3196555 degrees west. (I&rsquo;ve shown people this trick before and it blows their minds.)</span></p>
+<p>I then uploaded the corrected CSV to <a href="http://geojson.io/" title="geojson.io" target="_blank">geojson.io</a>:</p>
+<p><img alt="image" src="http://38.media.tumblr.com/efb5894bfd3060831800c929176cfcb1/tumblr_inline_nfxc37QDne1sr0q4f.png"/></p>
+<p>Then downloaded the GeoJSON and BAM! Data is ready to go!</p>
+<p><em>Checking out both datasets in QGIS (guess which color is abortion providers and which is CPCs)</em><img alt="image" src="http://38.media.tumblr.com/5ecfdc70d7383b38237f623acd0ac139/tumblr_inline_nfxc4hJzuU1sr0q4f.png"/></p>
+
+<p><strong>Conclusions: </strong></p>
+<ol><li><em>I love Twitter:</em> I asked the ether for help, and <a href="https://twitter.com/tolomaps/status/538794946443345920" title="Geocoding help" target="_blank">people responded</a>. I love the sense of online community. </li>
+<li><em>Learn to code it vs. do it by hand:</em> Programming exists to automate tasks. But though I&rsquo;ve learned a bunch of programming myself, when push came to shove on this project, I opted to do some form of manual data manipulation. Coding has an upfront investment of time to ultimately save you time once you know how to do it. So when do you decide to make that investment? </li>
+<li><em>Ask for help when you need it:</em> This seems to be an ongoing theme for me. And I think it should be an ongoing theme for everyone - it&rsquo;s ok if you don&rsquo;t know the answer, don&rsquo;t be afraid to ask for help!</li>
+</ol>
