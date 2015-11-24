@@ -165,7 +165,8 @@ pre {
 
 .site-nav {
   float: right;
-  line-height: 56px; }
+  line-height: 56px;
+  width: auto; }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
@@ -185,16 +186,11 @@ pre {
       .site-nav .menu-icon {
         display: block;
         float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
+        width: 100%;
+        height: 100%;
+        line-height: 100%;
+        padding: 10px;
         text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #424242; }
       .site-nav .trigger {
         clear: both;
         display: none; }
