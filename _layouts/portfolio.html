@@ -1,3 +1,30 @@
 ---
 layout: default
 ---
+<div class="container portfolio-page">
+  <div class="row">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}<small>  <a href="{{site.baseurl}}/portfolio/">/ {{ page.type }}</a></small></h1>
+      </header>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+    </article>
+  </div>
+</div>
+
+<!--
+<div class="container portfolio-page">
+  <div class="row">
+    <div class="col-md-12 portfolio-title">
+      <h2>{{ page.title }}</h2>
+    </div>
+    <div class="col-md-12 portfolio-content">
+      {{ page.content }}
+    </div>
+  </div>
+</div> -->

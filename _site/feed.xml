@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Nov 2015 10:23:26 -0600</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2015 10:23:26 -0600</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2015 11:34:19 -0600</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 11:34:19 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -35,6 +35,94 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>The Real Cost of Child Care</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;About:&lt;/strong&gt;
+This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+Read about &lt;a href=&quot;http://tolomaps.tumblr.com/post/131671267233/creating-a-bivariate-choropleth-color-scheme&quot;&gt;my process for creating a bivariate choropleth color scheme&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
+In 1971, Congress passed a bipartisan bill that would have “established a network of nationally funded, locally administered, comprehensive child care centers, which were to provide quality education, nutrition, and medical services.” And then Nixon vetoed it, because he said that children should be raised by family (read: women shouldn’t work). We were so close to universal public child care. It’s never been on the table since then, even though we provide free, public education to all children starting in kindergarten. Why shouldn’t we start earlier?&lt;/p&gt;
+
+&lt;p&gt;I started working on this project as a selfish exploration (paying for child care is expensive), but the more I learned, the more I think this should be a national priority. Providing young kids with high-quality child care is the best thing that we can do for their long-term development and our country’s future economy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/cost-of-childcare-infographic.png&quot; alt=&quot;The Real Cost of Childcare&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Astro Digital</title>
+        <description>&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/astro-digital-profile.png&quot; alt=&quot;Astro Digital profile page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+While doing a 2015 summer fellowship at &lt;a href=&quot;http://www.developmentseed.org&quot;&gt;Development Seed&lt;/a&gt;, my main client was Astro Digital, a start-up that lets you easily search and publish satellite imagery through their &lt;a href=&quot;https://fetch.astrodigital.com/&quot;&gt;imagery browser&lt;/a&gt;. My main role on the project was working on the user profile accounts, where you can store all of your published maps in one place and set alerts to let you know when new imagery is available in areas that you want to track.&lt;/p&gt;
+
+&lt;p&gt;I led the discussion on how to direct users through the website and create a cohesive experience. When I came on the project, there was no connection between the imagery browser and the user profile, which were built as two separate applications. The two platforms looked and felt detached from each other. I created wireframes for how the site should flow from one platform to the other to create a seamless experience. This also included figuring out how users should create accounts and log in.&lt;/p&gt;
+
+&lt;p&gt;The imagery browser originally had the interactive map on the left-hand side of the page, with the available imagery on the right-hand side. It also had the filter buttons on the top menu bar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original design for the Astro Digital imagery browser:&lt;/strong&gt;
+&lt;img src=&quot;../../../../assets/portfolio/astro-digital-fetch-old.png&quot; alt=&quot;Astro Digital old imagery browser&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I proposed that we swap the placement of the interactive map and the available imagery to match the layout of the user profile. I also proposed moving the filter buttons from the top navigation bar to be on top of the map. This allows the blue navigation bar to match across the two platforms, as well as place the buttons that affect the map results to be on top of the map itself. Clearing up the blue navigation bar also gives space to put the user’s name and avatar in the top-right corner. The user can click on that menu to go to their user profile to see their maps and alerts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My new design for the imagery browser:&lt;/strong&gt;
+&lt;br /&gt;
+&lt;img src=&quot;../../../../assets/portfolio/astro-digital-fetch-new.png&quot; alt=&quot;Astro Digital new imagery browser&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I also worked on some UI redesign to create a cleaner interface. I changed the action icons from dominating green circles to lighter buttons, mimicking the familiar Twitter interface. I differentiated the secondary menu’s text from the text on the rest of the page and increased the contrast between active and inactive tabs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original design for the user profile page:&lt;/strong&gt;
+&lt;br /&gt;
+&lt;img src=&quot;../../../../assets/portfolio/astro-digital-profile-ui-old.png&quot; alt=&quot;Astro Digital old profile page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My new design for the user profile page:&lt;/strong&gt;
+&lt;br /&gt;
+&lt;img src=&quot;../../../../assets/portfolio/astro-digital-profile-ui-new.png&quot; alt=&quot;Astro Digital new profile page&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/08/15/astro-digital.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/08/15/astro-digital.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>India Lights</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/india-nighttime.png&quot; alt=&quot;India night lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
+
+&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;br /&gt;
+\&lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;portfolio-caption&quot;&gt;This interactive Leaflet map slider shows the low resolution nighttime imagery on top of high resolution daytime imagery to give a sense of the scale of the data.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+(Note: The website has not been opened to the public yet, which is why I cannot link to the live site.)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/07/01/india-lights.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/07/01/india-lights.html</guid>
+        
+        
+        <category>portfolio</category>
         
       </item>
     
