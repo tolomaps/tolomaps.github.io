@@ -5941,6 +5941,19 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.jumbotron {
+  background-image: url("../../assets/img/background_purple.png");
+  background-size: cover;
+  min-height: 500px; }
+  .jumbotron .container {
+    color: #fff; }
+
+.jumbotron-heading {
+  font-weight: 700; }
+
+.jumbotron-paragraph {
+  font-size: 16px; }
+
 /**
  * Site header
  */
