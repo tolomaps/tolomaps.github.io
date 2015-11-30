@@ -2,12 +2,17 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $white;
+    background-color: $brand-green;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    // Text color for navbar
+    .container a {
+      color: $gray-dark;
+    }
 }
 
 .site-title {
@@ -17,6 +22,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+
 
     &,
     &:visited {
@@ -60,7 +66,7 @@
             line-height: 100%;
             padding: 10px;
             text-align: center;
-            
+
 
             // > svg {
             //     width: 18px;
