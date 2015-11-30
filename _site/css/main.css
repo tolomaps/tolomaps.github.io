@@ -5810,6 +5810,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 Georgia;
   color: #111;
+  background-image: url("../../assets/img/paper_fibers.png");
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -11738,7 +11739,7 @@ button.close {
   .hidden-print {
     display: none !important; } }
 .jumbotron {
-  background-image: url("../../assets/img/background_teal_dark.png");
+  background-image: url("../../assets/img/background_purple.png");
   background-size: cover;
   min-height: 500px; }
   .jumbotron .container {
@@ -11918,6 +11919,13 @@ button.close {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.portfolio-link {
+  margin-top: 0;
+  text-align: center; }
+
+.portfolio-thumbnail {
+  margin-top: 10px; }
 
 /**
  * Syntax highlighting styles

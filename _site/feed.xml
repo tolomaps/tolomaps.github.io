@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Nov 2015 07:18:20 -0500</pubDate>
-    <lastBuildDate>Mon, 30 Nov 2015 07:18:20 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Nov 2015 14:49:00 -0600</pubDate>
+    <lastBuildDate>Mon, 30 Nov 2015 14:49:00 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,7 +27,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 23 Nov 2015 22:34:16 -0500</pubDate>
+        <pubDate>Mon, 23 Nov 2015 21:34:16 -0600</pubDate>
         <link>http://tolomaps.github.io/jekyll/update/2015/11/23/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/jekyll/update/2015/11/23/welcome-to-jekyll.html</guid>
         
@@ -54,9 +54,9 @@ In 1971, Congress passed a bipartisan bill that would have “established a netw
 
 &lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/cost-of-childcare-infographic.png&quot; alt=&quot;The Real Cost of Childcare&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</link>
-        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/20/the-real-cost-of-child-care.html</guid>
+        <pubDate>Wed, 30 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/09/30/the-real-cost-of-child-care.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/09/30/the-real-cost-of-child-care.html</guid>
         
         
         <category>portfolio</category>
@@ -95,7 +95,7 @@ I also worked on some UI redesign to create a cleaner interface. I changed the a
 &lt;br /&gt;
 &lt;img src=&quot;../../../../assets/portfolio/astro-digital-profile-ui-new.png&quot; alt=&quot;Astro Digital new profile page&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 15 Aug 2015 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 15 Aug 2015 00:00:00 -0500</pubDate>
         <link>http://tolomaps.github.io/portfolio/2015/08/15/astro-digital.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/08/15/astro-digital.html</guid>
         
@@ -117,9 +117,54 @@ While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Developm
 &lt;p&gt;&lt;br /&gt;
 (Note: The website has not been opened to the public yet, which is why I cannot link to the live site.)&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
         <link>http://tolomaps.github.io/portfolio/2015/07/01/india-lights.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/07/01/india-lights.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Your Body, (Not) Your Choice</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/your-body-not-your-choice.png&quot; alt=&quot;Your Body, (Not) Your Choice&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;strong&gt;About:&lt;/strong&gt;
+This &lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot;&gt;interactive map and full-featured website&lt;/a&gt; covers the history of state-level abortion policy in the United States from the Roe v. Wade decision in 1973 through 2014. I worked together with &lt;a href=&quot;http://katiekowalsky.me/&quot;&gt;Katie Kowalsky&lt;/a&gt; and &lt;a href=&quot;http://dylanmoriarty.github.io&quot;&gt;Dylan Moriarty&lt;/a&gt; to collect the data, create the interactive map and chart in D3, write content, and code the website.&lt;/p&gt;
+
+&lt;p&gt;Your Body, (Not) Your Choice was featured on the &lt;a href=&quot;http://flowingdata.com/2015/03/18/abortion-policies-over-time-and-by-state/&quot;&gt;Flowing Data&lt;/a&gt; blog (the nerd highlight of my life!) and won Honorable Mention for the &lt;a href=&quot;http://www.cartogis.org/awards/winners2014.php&quot;&gt;CaGIS 2014 Map Competition&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+Read &lt;a href=&quot;http://tolomaps.tumblr.com/tagged/yourbodynotyourchoice&quot;&gt;my blog posts about the process&lt;/a&gt;.
+Katie also &lt;a href=&quot;https://kowalskycartography.wordpress.com/tag/575-final-project/&quot;&gt;wrote a few blog posts on the process&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 -0600</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/01/01/your-body-not-your-choice.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/01/01/your-body-not-your-choice.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Modern Motherhood</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://tolomaps.com/motherhood&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/modern-motherhood.png&quot; alt=&quot;Modern Motherhood: A World of Struggle&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;About:&lt;/strong&gt;
+This was my first attempt at using D3 to creative an interactive map, and it was really, really fun. I love mapping issues that I care about, and was taken aback by some of the insight that I gained from exploring the various indicators presented here.&lt;/p&gt;
+
+&lt;p&gt;I was initially inspired to map these topics by &lt;a href=&quot;http://www.nytimes.com/imagepages/2013/02/17/opinion/17coontz2-map.html&quot;&gt;this NYTimes map&lt;/a&gt; of maternity leave policies worldwide, which was published right before I got pregnant. It seemed odd that Bogota, Colombia (where I was living at the time) was a better place to have a kid as a working woman than the United States.&lt;/p&gt;
+
+&lt;p&gt;I am under no illusion that the maternal leave map is actually indicative of the situation in each country; I am aware that in many countries, the official policy may be that women get paid maternal leave, but the reality is that many women don’t have formal employment or may not qualify for other reasons. This is a subject I’d like to explore further.&lt;/p&gt;
+
+&lt;p&gt;The Maternal Death indicator shocked me. In too many countries, the rate is higher than 1:50, meaning that 1 in 50 women will die from some maternal cause.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2014/11/01/modern-motherhood.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2014/11/01/modern-motherhood.html</guid>
         
         
         <category>portfolio</category>
