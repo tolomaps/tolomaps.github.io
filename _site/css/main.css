@@ -5810,7 +5810,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 Georgia;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -5841,7 +5841,8 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-style: italic;
+  text-align: center; }
 
 /**
  * Lists
@@ -11743,8 +11744,6 @@ button.close {
   .hidden-print {
     display: none !important; } }
 .jumbotron {
-  background-image: url("../../assets/img/background_light.png");
-  background-size: cover;
   margin-bottom: 0; }
   .jumbotron .container {
     color: #424242; }
@@ -11753,6 +11752,12 @@ button.close {
   font-weight: 700;
   margin-top: 0; }
 
+@media screen and (min-width: 992px) {
+  .jumbotron h1 {
+    font-size: 72px; } }
+@media screen and (max-width: 991px) {
+  .jumbotron h1 {
+    font-size: 48px; } }
 .jumbotron-paragraph {
   font-size: 16px; }
 
@@ -11797,7 +11802,7 @@ button.close {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
+      background-color: #fff;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -11828,7 +11833,8 @@ button.close {
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
-  background-color: #fff; }
+  background-image: url("../../assets/img/background_light.png");
+  background-size: cover; }
 
 .footer-heading {
   font-size: 18px;
@@ -11926,7 +11932,7 @@ button.close {
         font-size: 18px; } }
 
 .page-content {
-  background-image: url("../../assets/img/paper_fibers.png");
+  background-color: #fff;
   padding: 0; }
 
 .portfolio-link {

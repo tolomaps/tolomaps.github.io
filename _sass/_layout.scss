@@ -114,7 +114,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background-color: $white;
+    background-image: url("../../assets/img/background_light.png");
+    background-size: cover;
 }
 
 .footer-heading {
@@ -254,6 +255,6 @@
 }
 
 .page-content {
-    background-image: url("../../assets/img/paper_fibers.png");
+    background-color: $background-color;
     padding: 0;
 }

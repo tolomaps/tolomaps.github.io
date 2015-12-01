@@ -1,7 +1,4 @@
 .jumbotron {
-  background-image: url("../../assets/img/background_light.png");
-  background-size: cover;
-  // min-height: 1000px;
   margin-bottom: 0;
   .container {
     color: $grey-color-dark;
@@ -11,6 +8,18 @@
 .jumbotron-heading {
   font-weight: $bold-font-weight;
   margin-top: 0;
+}
+
+@media screen and (min-width: 992px) {
+  .jumbotron h1 {
+    font-size: 72px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .jumbotron h1 {
+    font-size: 48px;
+  }
 }
 
 .jumbotron-paragraph {
