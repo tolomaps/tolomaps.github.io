@@ -1086,8 +1086,8 @@ a {
   color: #843e83;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #50264f;
-    text-decoration: underline; }
+    color: #fff;
+    text-decoration: none; }
   a:focus {
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
@@ -1127,7 +1127,7 @@ hr {
   margin-top: 22px;
   margin-bottom: 22px;
   border: 0;
-  border-top: 1px solid #eeeeee; }
+  border-top: 1px solid #fff; }
 
 .sr-only {
   position: absolute;
@@ -3094,8 +3094,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
   .btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active {
     border-color: transparent; }
   .btn-link:hover, .btn-link:focus {
-    color: #50264f;
-    text-decoration: underline;
+    color: #fff;
+    text-decoration: none;
     background-color: transparent; }
   .btn-link[disabled]:hover, .btn-link[disabled]:focus, fieldset[disabled] .btn-link:hover, fieldset[disabled] .btn-link:focus {
     color: #777777;
@@ -4110,7 +4110,7 @@ tbody.collapse.in {
   .pagination > li > span:hover,
   .pagination > li > span:focus {
     z-index: 3;
-    color: #50264f;
+    color: #fff;
     background-color: #eeeeee;
     border-color: #ddd; }
   .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
@@ -5810,7 +5810,6 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 Georgia;
   color: #111;
-  background-image: url("../../assets/img/paper_fibers.png");
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -5865,12 +5864,17 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #843e83;
-  text-decoration: none; }
+  text-decoration: none;
+  font-weight: bold; }
   a:visited {
-    color: #843e83; }
-  a:hover {
-    color: #b25cb1;
-    text-decoration: underline; }
+    color: #843e83;
+    text-decoration: none;
+    font-weight: bold; }
+
+a:hover {
+  color: #fff;
+  background-color: #843e83;
+  text-decoration: underline; }
 
 /**
  * Blockquotes
@@ -7029,8 +7033,8 @@ a {
   color: #843e83;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #50264f;
-    text-decoration: underline; }
+    color: #fff;
+    text-decoration: none; }
   a:focus {
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
@@ -7070,7 +7074,7 @@ hr {
   margin-top: 22px;
   margin-bottom: 22px;
   border: 0;
-  border-top: 1px solid #eeeeee; }
+  border-top: 1px solid #fff; }
 
 .sr-only {
   position: absolute;
@@ -9037,8 +9041,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
   .btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active {
     border-color: transparent; }
   .btn-link:hover, .btn-link:focus {
-    color: #50264f;
-    text-decoration: underline;
+    color: #fff;
+    text-decoration: none;
     background-color: transparent; }
   .btn-link[disabled]:hover, .btn-link[disabled]:focus, fieldset[disabled] .btn-link:hover, fieldset[disabled] .btn-link:focus {
     color: #777777;
@@ -10053,7 +10057,7 @@ tbody.collapse.in {
   .pagination > li > span:hover,
   .pagination > li > span:focus {
     z-index: 3;
-    color: #50264f;
+    color: #fff;
     background-color: #eeeeee;
     border-color: #ddd; }
   .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
@@ -11739,14 +11743,15 @@ button.close {
   .hidden-print {
     display: none !important; } }
 .jumbotron {
-  background-image: url("../../assets/img/background_purple.png");
+  background-image: url("../../assets/img/background_light.png");
   background-size: cover;
-  min-height: 500px; }
+  margin-bottom: 0; }
   .jumbotron .container {
-    color: #fff; }
+    color: #424242; }
 
 .jumbotron-heading {
-  font-weight: 700; }
+  font-weight: 700;
+  margin-top: 0; }
 
 .jumbotron-paragraph {
   font-size: 16px; }
@@ -11761,6 +11766,10 @@ button.close {
   position: relative; }
   .site-header .container a {
     color: #333333; }
+  .site-header .container a:hover {
+    color: #333333;
+    background-color: #53edbe;
+    text-decoration: underline; }
 
 .site-title {
   font-size: 26px;
@@ -11818,7 +11827,8 @@ button.close {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0; }
+  padding: 30px 0;
+  background-color: #fff; }
 
 .footer-heading {
   font-size: 18px;
@@ -11919,6 +11929,10 @@ button.close {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.page-content {
+  background-image: url("../../assets/img/paper_fibers.png");
+  padding: 0; }
 
 .portfolio-link {
   margin-top: 0;

@@ -1,14 +1,16 @@
 .jumbotron {
-  background-image: url("../../assets/img/background_purple.png");
+  background-image: url("../../assets/img/background_light.png");
   background-size: cover;
-  min-height: 500px;
+  // min-height: 1000px;
+  margin-bottom: 0;
   .container {
-    color: $white;
+    color: $grey-color-dark;
   }
 }
 
 .jumbotron-heading {
   font-weight: $bold-font-weight;
+  margin-top: 0;
 }
 
 .jumbotron-paragraph {

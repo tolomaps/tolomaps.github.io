@@ -13,6 +13,12 @@
     .container a {
       color: $gray-dark;
     }
+    .container a:hover {
+      color: $gray-dark;
+      background-color: $brand-green;
+      text-decoration: underline;
+    }
+
 }
 
 .site-title {
@@ -108,6 +114,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: $white;
 }
 
 .footer-heading {
@@ -247,4 +254,9 @@
             font-size: 18px;
         }
     }
+}
+
+.page-content {
+    background-image: url("../../assets/img/paper_fibers.png");
+    padding: 0;
 }
