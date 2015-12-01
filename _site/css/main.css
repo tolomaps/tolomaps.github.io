@@ -11928,7 +11928,8 @@ button.close {
 
 .portfolio-thumbnail:hover {
   border-color: #843e83;
-  border-width: 3px; }
+  border-width: 3px;
+  cursor: pointer; }
 
 /**
  * Syntax highlighting styles
