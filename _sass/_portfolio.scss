@@ -6,3 +6,11 @@
 .portfolio-thumbnail {
   margin-top: 10px;
 }
+
+.thumbnail {
+  margin-bottom: 0;
+}
+.portfolio-thumbnail:hover {
+  border-color: $brand-purple;
+  border-width: 3px;
+}

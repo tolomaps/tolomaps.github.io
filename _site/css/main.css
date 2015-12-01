@@ -11923,6 +11923,13 @@ button.close {
 .portfolio-thumbnail {
   margin-top: 10px; }
 
+.thumbnail {
+  margin-bottom: 0; }
+
+.portfolio-thumbnail:hover {
+  border-color: #843e83;
+  border-width: 3px; }
+
 /**
  * Syntax highlighting styles
  */
