@@ -4,7 +4,7 @@
 .site-header {
     border-bottom: 1px solid $white;
     background-color: $brand-green;
-    min-height: 56px;
+    // min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -21,12 +21,20 @@
 
 }
 
+.navbar-default .navbar-nav > li > a {
+  color: $gray-dark;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
+    // line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
+    // margin-bottom: 0;
     float: left;
 
 
@@ -36,77 +44,31 @@
     }
 }
 
-.site-nav {
-    float: right;
-    line-height: 56px;
-    width: auto;
-
-    .menu-icon {
-        display: none;
-    }
-
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 20px;
-        }
-    }
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 100%;
-            height: 100%;
-            line-height: 100%;
-            padding: 10px;
-            text-align: center;
-
-
-            // > svg {
-            //     width: 18px;
-            //     height: 15px;
-            //
-            //     path {
-            //         fill: $grey-color-dark;
-            //     }
-            // }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
-        }
-    }
+// Styling for menu button on smaller screens
+.navbar-menu-button {
+  background-color: $white;
+  color: $brand-purple;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
+.navbar-default {
+  .navbar-toggle:hover {
+    color: $white;
+    background-color: $brand-purple;
+  }
+}
 
+.navbar-nav {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav > li > a:hover { //Hover effect for items on collapsed menu
+  background-color: $white;
+  color: $brand-purple;
+}
 
 /**
  * Site footer

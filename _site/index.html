@@ -19,22 +19,30 @@
 
   <body>
 
-    <header class="site-header">
+    <header>
 
-  <div class="container">
-
-    <a class="site-title" href="/">Robin Tolochko</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">Menu</a>
-
-      <div class="trigger">
-        <a class="page-link" href="/about">About</a>
-        <a class="page-link" href="/portfolio">Portfolio</a>
+  <nav class="navbar navbar-default navbar-fixed-top main-navbar site-header"> <!-- Creates the navbar -->
+    <div class="container">
+      <div class="navbar-header"> <!-- Creates the navbar header -->
+        <button type="button" class="navbar-toggle collapsed navbar-menu-button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span> <!-- Used for screen readers for accessibility -->
+          <span class="navbar-menu">Menu</span>
+        </button> <!-- Hamburger button for smaller devices -->
+        <a class="site-title navbar-brand" href="/">Robin Tolochko</a> <!-- Your website brand name -->
       </div>
-    </nav>
 
-  </div>
+      <div id="navbar" class="collapse navbar-collapse"> <!-- Links to include in navbar -->
+        <ul class="nav navbar-nav navbar-right">  <!-- Unordered list for links on navbar -->
+          <li><a class="page-link" href="/about">About</a></li>
+          <li><a class="page-link" href="/portfolio">Portfolio</a></li>
+        </ul>
+      </div> <!-- end .navbar-collapse -->
+    </div> <!-- end .container -->
+  </nav> <!-- end navigation bar -->
+
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="/assets/javascripts/bootstrap.js"></script>
+
 
 </header>
 

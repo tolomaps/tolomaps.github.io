@@ -5810,7 +5810,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 Georgia;
   color: #111;
-  background-color: #fff;
+  background-color: #eeeeee;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -11767,7 +11767,6 @@ button.close {
 .site-header {
   border-bottom: 1px solid #fff;
   background-color: #53edbe;
-  min-height: 56px;
   position: relative; }
   .site-header .container a {
     color: #333333; }
@@ -11776,56 +11775,38 @@ button.close {
     background-color: #53edbe;
     text-decoration: underline; }
 
+.navbar-default .navbar-nav > li > a {
+  color: #333333; }
+
+.navbar {
+  margin-bottom: 0; }
+
 .site-title {
   font-size: 26px;
   font-weight: 300;
-  line-height: 56px;
   letter-spacing: -1px;
-  margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
     color: #424242; }
 
-.site-nav {
-  float: right;
-  line-height: 56px;
-  width: auto; }
-  .site-nav .menu-icon {
-    display: none; }
-  .site-nav .page-link {
-    color: #111;
-    line-height: 1.5; }
-    .site-nav .page-link:not(:last-child) {
-      margin-right: 20px; }
-  @media screen and (max-width: 600px) {
-    .site-nav {
-      position: absolute;
-      top: 9px;
-      right: 15px;
-      background-color: #fff;
-      border: 1px solid #e8e8e8;
-      border-radius: 5px;
-      text-align: right; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 100%;
-        height: 100%;
-        line-height: 100%;
-        padding: 10px;
-        text-align: center; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px;
-        margin-left: 20px; }
-        .site-nav .page-link:not(:last-child) {
-          margin-right: 0; } }
+.navbar-menu-button {
+  background-color: #fff;
+  color: #843e83;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px; }
+
+.navbar-default .navbar-toggle:hover {
+  color: #fff;
+  background-color: #843e83; }
+
+.navbar-nav {
+  margin-top: 0;
+  margin-bottom: 0; }
+
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: #fff;
+  color: #843e83; }
 
 /**
  * Site footer
@@ -11932,7 +11913,7 @@ button.close {
         font-size: 18px; } }
 
 .page-content {
-  background-color: #fff;
+  background-color: #eeeeee;
   padding: 0; }
 
 .portfolio-link {
