@@ -73,17 +73,22 @@ layout: default
       {% endfor %}
     </div>
 
+    <hr class="resume-hr">
 
-
-<!-- To be added in later: -->
-    <!-- <div class="col-sm-12">
-      <h2>Other stuff</h2>
-      {% for item in page.extras %}
-        <div class="resume_item cf {{ item.extra }}">
-          <h3 class="resume_header">{{ item.name }}<span class="resume_title">{{ item.title }}</span></h3>
-          <span class="resume_timeline">{{ item.time }}</span>
-          <p class="resume_description">{{ item.description }}</p>
+    <div class="row resume-section">
+      <div class="col-sm-12">
+        <h2>Community & Leadership</h2>
+      </div>
+      {% for other in page.stuff %}
+        <div class="col-md-12 resume-other">
+          <div class="col-sm-4 col-md-3 other-logo-container">
+            <a href="{{ other.website }}" class="other-link"><img src="{{ other.img }}" class="other-logo"></a>
+          </div>
+          <div class="col-sm-8 col-md-9 other-description-container">
+            <h3 class="other-header">{{ other.name }} <small> {{ other.title }}</small></h3>
+            <h4 class="other-date"><strong>{{ other.date }}</strong></h4>
+          </div>
         </div>
       {% endfor %}
-    </div> -->
+    </div>
 </div>

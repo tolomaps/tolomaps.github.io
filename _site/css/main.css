@@ -11936,17 +11936,20 @@ button.close {
   position: relative;
   display: block; }
 
-.resume-job, .resume-education {
+.resume-job, .resume-education, .resume-other {
   margin-bottom: 3rem;
   margin-left: 0; }
 
-.job-logo-container, .job-description-container, .education-logo-container, .education-description-container {
+.job-logo-container, .job-description-container, .education-logo-container, .education-description-container, .other-logo-container, .other-description-container {
   padding-left: 0; }
 
-.job-logo, .education-logo {
+.job-logo, .education-logo, .other-logo {
   max-width: 200px; }
 
-.job-header {
+.other-link:hover {
+  background-color: #eeeeee; }
+
+.job-header, .other-header {
   margin-top: 0; }
 
 .resume-skills {
@@ -11958,10 +11961,10 @@ button.close {
   .resume-skills-section h3 {
     margin-top: 0; }
 
-.job-header, .education-header {
+.job-header, .education-header, .other-header {
   margin-bottom: 0; }
 
-.job-time-location, .education-date {
+.job-time-location, .education-date, .other-date {
   margin-top: 0; }
 
 .resume-hr {
