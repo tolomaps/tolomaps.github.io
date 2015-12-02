@@ -11931,14 +11931,19 @@ button.close {
   border-width: 3px;
   cursor: pointer; }
 
-.resume-job {
-  margin-bottom: 5rem;
+.resume-section {
+  margin-bottom: 3rem;
+  position: relative;
+  display: block; }
+
+.resume-job, .resume-education {
+  margin-bottom: 3rem;
   margin-left: 0; }
 
-.job-logo-container {
+.job-logo-container, .job-description-container, .education-logo-container, .education-description-container {
   padding-left: 0; }
 
-.job-logo {
+.job-logo, .education-logo {
   max-width: 200px; }
 
 .job-header {
@@ -11950,9 +11955,17 @@ button.close {
 
 .resume-skills-section {
   padding-left: 0; }
+  .resume-skills-section h3 {
+    margin-top: 0; }
+
+.job-header, .education-header {
+  margin-bottom: 0; }
+
+.job-time-location, .education-date {
+  margin-top: 0; }
 
 .resume-hr {
-  color: red; }
+  border: 1px solid #fff; }
 
 /**
  * Syntax highlighting styles

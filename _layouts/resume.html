@@ -5,66 +5,78 @@ layout: default
 {{ content }}
 
 <div class="container resume">
-  <div class="row">
+  <div class="row resume-section">
     <div class="col-md-12"><h2>Work Experience</h2></div>
-    <hr>
     {% for job in page.jobs %}
       <div class="col-md-12 resume-job">
-        <div class="col-sm-3 job-logo-container">
+        <div class="col-sm-4 col-md-3 job-logo-container">
           <img src="{{ job.img }}" class="job-logo">
         </div>
-        <div class="col-sm-9">
+        <div class="col-sm-8 col-md-9 job-description-container">
           <h3 class="job-header">{{ job.name }} <small> {{ job.title }}</small></h3>
           <h4 class="job-time-location"><strong>{{ job.time }}</strong> | {{ job.location }}</h4>
           <p class="job-description">{{ job.description }}</p>
         </div>
       </div>
     {% endfor %}
-
-    <div class="col-sm-12">
-      <h2>Technical Skills</h2>
-    </div>
-    <div class="col-sm-12">
-      <div class="col-sm-4 resume-skills-section">
-        <h3>Cartography & GIS</h3>
-          <p>
-            Mapbox Studio | QGIS | ArcGIS | Blender | CartoCSS
-          </p>
+  </div>
+    <hr class="resume-hr">
+    <div class="row resume-section">
+      <div class="col-sm-12">
+        <h2>Technical Skills</h2>
       </div>
-      <div class="col-sm-4 resume-skills-section">
-        <h3>Programming & Databases</h3>
-          <p>
-            JavaScript | D3 | Leaflet | jQuery | GitHub | Python | PostgreSQL / PostGIS
-          </p>
+      <div class="col-sm-12">
+        <div class="col-sm-4 resume-skills-section">
+          <h3>Cartography & GIS</h3>
+            <p>
+              Mapbox Studio | QGIS | GDAL/OGR | ArcGIS | Blender | CartoCSS
+            </p>
+        </div>
+        <div class="col-sm-4 resume-skills-section">
+          <h3>Programming & Databases</h3>
+            <p>
+              Command line | JavaScript | D3 | Leaflet | jQuery | GitHub | Python | PostGIS
+            </p>
+        </div>
+        <div class="col-sm-4 resume-skills-section">
+          <h3>Design</h3>
+            <p>
+              HTML | CSS | SASS | Illustrator | Photoshop
+            </p>
+        </div>
       </div>
-      <div class="col-sm-4 resume-skills-section">
-        <h3>Design</h3>
-          <p>
-            HTML | CSS | SASS | Illustrator | Photoshop
-          </p>
+    </div>
+
+    <hr class="resume-hr">
+
+<!-- To be added in later: -->
+    <!-- <div class="row resume-section">
+      <div class="col-sm-12">
+        <h2>Writing & Talks</h2>
       </div>
+    </div> -->
+
+    <div class="row resume-section">
+      <div class="col-sm-12">
+        <h2>Education</h2>
+      </div>
+      {% for school in page.education %}
+        <div class="col-md-12 resume-education">
+          <div class="col-sm-4 col-md-3 education-logo-container">
+            <img src="{{ school.img }}" class="education-logo">
+          </div>
+          <div class="col-sm-8 col-md-9 education-description-container">
+            <h3 class="education-header">{{ school.name }} <small> {{ school.title }}</small></h3>
+            <h4 class="education-date"><strong>{{ school.date }}</strong></h4>
+          </div>
+        </div>
+      {% endfor %}
     </div>
 
-    <hr>
 
-    <div class="col-sm-12">
-      <h2>Writing & Talks</h2>
-        <ul class="resume_item resume_list">
-        {% for c in page.cv %}
-          <li><a href="{{ c.link }}" target="_blank"><span>{{ c.year }}</span>{{ c.name }}</a></li>
-        {% endfor %}
-        </ul>
-    </div>
 
-    <hr>
-
-    <div class="col-sm-12">
-      <h2>Education</h2>
-    </div>
-
-    <hr>
-
-    <div class="col-sm-12">
+<!-- To be added in later: -->
+    <!-- <div class="col-sm-12">
       <h2>Other stuff</h2>
       {% for item in page.extras %}
         <div class="resume_item cf {{ item.extra }}">
@@ -73,6 +85,5 @@ layout: default
           <p class="resume_description">{{ item.description }}</p>
         </div>
       {% endfor %}
-    </div>
-  </div>
+    </div> -->
 </div>
