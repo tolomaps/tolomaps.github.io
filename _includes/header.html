@@ -12,9 +12,17 @@
 
       <div id="navbar" class="collapse navbar-collapse"> <!-- Links to include in navbar -->
         <ul class="nav navbar-nav navbar-right">  <!-- Unordered list for links on navbar -->
-          <li><a class="page-link" href="{{ site.baseurl }}/about">About</a></li>
-          <li><a class="page-link" href="{{ site.baseurl }}/portfolio">Portfolio</a></li>
-          <li><a class="page-link" href="{{ site.baseurl }}/resume">Resume</a></li>
+          {% for order in (1..10) %}
+            {% for p in site.pages %}
+              {% if p.order == order %}
+                <li>
+                  <a {% if p.url == page.url %}class="current-page"{% endif %} href="{{ site.baseurl }}/{{ p.link }}">
+                    {{ p.heading }}
+                  </a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
           <li><a class="page-link" href="http://tolomaps.tumblr.com/">Blog</a></li>
         </ul>
       </div> <!-- end .navbar-collapse -->

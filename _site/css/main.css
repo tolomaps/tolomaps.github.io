@@ -11919,6 +11919,9 @@ button.close {
   background-color: #eeeeee;
   padding: 0; }
 
+.current-page {
+  background-color: #17dca0; }
+
 .portfolio-link {
   margin-top: 0;
   text-align: center; }

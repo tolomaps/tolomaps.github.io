@@ -220,3 +220,7 @@
     background-color: $background-color;
     padding: 0;
 }
+
+.current-page {
+  background-color: darken($brand-green, 15%);
+}
