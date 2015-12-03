@@ -11943,6 +11943,9 @@ button.close {
   text-align: center;
   margin-bottom: 0; }
 
+.portfolio-caption {
+  text-align: center; }
+
 .resume-section {
   margin-bottom: 3rem;
   position: relative;
