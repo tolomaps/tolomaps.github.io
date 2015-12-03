@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2015 19:21:58 -0600</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2015 19:21:58 -0600</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2015 23:56:06 -0600</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2015 23:56:06 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -165,6 +165,27 @@ This was my first attempt at using D3 to creative an interactive map, and it was
         <pubDate>Sat, 01 Nov 2014 00:00:00 -0500</pubDate>
         <link>http://tolomaps.github.io/portfolio/2014/11/01/modern-motherhood.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2014/11/01/modern-motherhood.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Espectro Energy</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.espectroenergy.com/map/&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/espectro-energy.png&quot; alt=&quot;Espectro Energy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;About:&lt;/strong&gt;
+&lt;a href=&quot;http://www.espectroenergy.com&quot;&gt;Espectro Energy&lt;/a&gt; was a beta platform built to help people make informed decisions about whether renewable energy can work for them. The user selects information about their energy needs and location, and then the platform gives them different scenarios about how viable renewable energy is for them and what the potential cost would be. Does the user want to focus on decreasing costs? On creating a system with the highest percentage of renewable energy possible? The platform is especially targeted towards users who live in parts of Colombia without access to the electricity grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+I worked as project manager and cartographer on this project during my time at &lt;a href=&quot;/resume&quot;&gt;CEELAT&lt;/a&gt; in Bogota, Colombia. I worked closely with web developers, designers, and renewable energy experts to flesh out the technical scope of the project, make sure that everything was running smoothly, and ensure that everyone was on the same page throughout the duration of the project. I conducted user testing with stakeholders, leading to additional improvements to the site. I was also in charge of the map creation, including styling the data in TileMill.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0600</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2014/01/01/espectro-energy.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2014/01/01/espectro-energy.html</guid>
         
         
         <category>portfolio</category>
