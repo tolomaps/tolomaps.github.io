@@ -1086,7 +1086,7 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #843e83;
+  color: #a74ea5;
   text-decoration: none; }
   a:hover, a:focus {
     color: #fff;
@@ -3087,7 +3087,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
     background-color: #fff; }
 
 .btn-link {
-  color: #843e83;
+  color: #a74ea5;
   font-weight: normal;
   border-radius: 0; }
   .btn-link, .btn-link:active, .btn-link.active, .btn-link[disabled], fieldset[disabled] .btn-link {
@@ -3582,7 +3582,7 @@ tbody.collapse.in {
         cursor: not-allowed; }
   .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
     background-color: #eeeeee;
-    border-color: #843e83; }
+    border-color: #a74ea5; }
   .nav .nav-divider {
     height: 1px;
     margin: 10px 0;
@@ -4096,7 +4096,7 @@ tbody.collapse.in {
       padding: 6px 12px;
       line-height: 1.42857;
       text-decoration: none;
-      color: #843e83;
+      color: #a74ea5;
       background-color: #fff;
       border: 1px solid #ddd;
       margin-left: -1px; }
@@ -4275,7 +4275,7 @@ a.label:hover, a.label:focus {
     top: 0;
     padding: 1px 5px; }
   .list-group-item.active > .badge, .nav-pills > .active > a > .badge {
-    color: #843e83;
+    color: #a74ea5;
     background-color: #fff; }
   .list-group-item > .badge {
     float: right; }
@@ -4344,7 +4344,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #843e83; }
+  border-color: #a74ea5; }
 
 .alert {
   padding: 15px;
@@ -5867,17 +5867,17 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #843e83;
+  color: #a74ea5;
   text-decoration: none;
   font-weight: bold; }
   a:visited {
-    color: #843e83;
+    color: #a74ea5;
     text-decoration: none;
     font-weight: bold; }
 
 a:hover {
-  color: #fff;
-  background-color: #843e83;
+  color: #424242;
+  background-color: #a74ea5;
   text-decoration: underline; }
 
 /**
@@ -7034,7 +7034,7 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #843e83;
+  color: #a74ea5;
   text-decoration: none; }
   a:hover, a:focus {
     color: #fff;
@@ -9035,7 +9035,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
     background-color: #fff; }
 
 .btn-link {
-  color: #843e83;
+  color: #a74ea5;
   font-weight: normal;
   border-radius: 0; }
   .btn-link, .btn-link:active, .btn-link.active, .btn-link[disabled], fieldset[disabled] .btn-link {
@@ -9530,7 +9530,7 @@ tbody.collapse.in {
         cursor: not-allowed; }
   .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
     background-color: #eeeeee;
-    border-color: #843e83; }
+    border-color: #a74ea5; }
   .nav .nav-divider {
     height: 1px;
     margin: 10px 0;
@@ -10044,7 +10044,7 @@ tbody.collapse.in {
       padding: 6px 12px;
       line-height: 1.42857;
       text-decoration: none;
-      color: #843e83;
+      color: #a74ea5;
       background-color: #fff;
       border: 1px solid #ddd;
       margin-left: -1px; }
@@ -10223,7 +10223,7 @@ a.label:hover, a.label:focus {
     top: 0;
     padding: 1px 5px; }
   .list-group-item.active > .badge, .nav-pills > .active > a > .badge {
-    color: #843e83;
+    color: #a74ea5;
     background-color: #fff; }
   .list-group-item > .badge {
     float: right; }
@@ -10292,7 +10292,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #843e83; }
+  border-color: #a74ea5; }
 
 .alert {
   padding: 15px;
@@ -11747,9 +11747,11 @@ button.close {
   .hidden-print {
     display: none !important; } }
 .jumbotron {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  background-image: url(../assets/img/el-cocuy.png);
+  background-size: cover; }
   .jumbotron .container {
-    color: #424242; }
+    color: #fff; }
 
 .jumbotron-heading {
   font-weight: 700;
@@ -11794,14 +11796,14 @@ button.close {
 
 .navbar-menu-button {
   background-color: #fff;
-  color: #843e83;
+  color: #a74ea5;
   font-weight: bold;
   padding-top: 5px;
   padding-bottom: 5px; }
 
 .navbar-default .navbar-toggle:hover {
   color: #fff;
-  background-color: #843e83; }
+  background-color: #a74ea5; }
 
 .navbar-nav {
   margin-top: 0;
@@ -11809,7 +11811,7 @@ button.close {
 
 .navbar-default .navbar-nav > li > a:hover {
   background-color: #fff;
-  color: #843e83; }
+  color: #a74ea5; }
 
 /**
  * Site footer
@@ -11933,7 +11935,7 @@ button.close {
   margin-bottom: 0; }
 
 .portfolio-thumbnail:hover {
-  border-color: #843e83;
+  border-color: #a74ea5;
   border-width: 3px;
   cursor: pointer; }
 

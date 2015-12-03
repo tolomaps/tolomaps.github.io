@@ -18,7 +18,6 @@
       background-color: $brand-green;
       text-decoration: underline;
     }
-
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -32,9 +31,7 @@
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    // line-height: 56px;
     letter-spacing: -1px;
-    // margin-bottom: 0;
     float: left;
 
 
@@ -47,7 +44,7 @@
 // Styling for menu button on smaller screens
 .navbar-menu-button {
   background-color: $white;
-  color: $brand-purple;
+  color: $link-color;
   font-weight: bold;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -56,7 +53,7 @@
 .navbar-default {
   .navbar-toggle:hover {
     color: $white;
-    background-color: $brand-purple;
+    background-color: $link-color;
   }
 }
 
@@ -67,7 +64,7 @@
 
 .navbar-default .navbar-nav > li > a:hover { //Hover effect for items on collapsed menu
   background-color: $white;
-  color: $brand-purple;
+  color: $link-color;
 }
 
 /**

@@ -1,7 +1,9 @@
 .jumbotron {
   margin-bottom: 0;
+  background-image: url(../assets/img/el-cocuy.png);
+  background-size: cover;
   .container {
-    color: $grey-color-dark;
+    color: $white;
   }
 }
 
