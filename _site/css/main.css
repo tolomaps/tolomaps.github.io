@@ -11939,6 +11939,10 @@ button.close {
   border-width: 3px;
   cursor: pointer; }
 
+.portfolio-asset {
+  text-align: center;
+  margin-bottom: 0; }
+
 .resume-section {
   margin-bottom: 3rem;
   position: relative;
