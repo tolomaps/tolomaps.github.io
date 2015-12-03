@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2015 23:56:06 -0600</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2015 23:56:06 -0600</lastBuildDate>
+    <pubDate>Thu, 03 Dec 2015 00:12:50 -0600</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2015 00:12:50 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -108,11 +108,11 @@ I also worked on some UI redesign to create a cleaner interface. I changed the a
         <title>India Lights</title>
         <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/india-nighttime.png&quot; alt=&quot;India night lights&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
-
 &lt;p class=&quot;portfolio-asset&quot;&gt;&lt;br /&gt;
-\&lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
+While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;portfolio-caption&quot;&gt;This interactive Leaflet map slider shows the low resolution nighttime imagery on top of high resolution daytime imagery to give a sense of the scale of the data.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 (Note: The website has not been opened to the public yet, which is why I cannot link to the live site.)&lt;/p&gt;
