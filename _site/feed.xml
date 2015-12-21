@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2015 16:13:57 -0600</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 16:13:57 -0600</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2015 16:31:31 -0600</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2015 16:31:31 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -54,6 +54,25 @@ I created all of the textures in Photoshop, the texture of each color distinct f
         <pubDate>Sun, 01 Nov 2015 00:00:00 -0500</pubDate>
         <link>http://tolomaps.github.io/portfolio/2015/11/01/ode-to-honey-and-papa.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/01/ode-to-honey-and-papa.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Colombia Cycling</title>
+        <description>&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;a href=&quot;../../../../assets/portfolio/colombia-cycling.pdf&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/colombia-cycling.png&quot; alt=&quot;Colombia Cycling Map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About:&lt;/strong&gt;
+The assignment for this class project was to create a map for a cycling competition for anywhere in the world and display it on a shaded relief terrain map. Naturally, I chose Colombia as the site for my fake competition, considering I lived there for several years and Colombia is well-known for its high-caliber cyclists. I created a totally unrealistic and ridiculous route, taking cyclists through known dangerous areas, up and down the Andes Mountains numerous times. Because why not?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+I created the shaded relief in Blender, thanks to &lt;a href=&quot;https://somethingaboutmaps.wordpress.com/2014/01/01/blender-tutorial/&quot; target=&quot;blank&quot;&gt;Daniel Huffman’s excellent tutorial&lt;/a&gt;. After I got the hang of it, I loved working with Blender and think that it produces much more realistic shaded relief than the default methods that are often used.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Oct 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/10/15/colombia-cycling.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/10/15/colombia-cycling.html</guid>
         
         
         <category>portfolio</category>
