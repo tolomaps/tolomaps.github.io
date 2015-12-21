@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2015 14:41:38 -0600</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 14:41:38 -0600</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2015 15:49:08 -0600</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2015 15:49:08 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -45,7 +45,7 @@
 This is a piece for my Graphic Design in Cartography class. The assignment was to make an infographic with a bivariate map.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
-Read about &lt;a href=&quot;http://tolomaps.tumblr.com/post/131671267233/creating-a-bivariate-choropleth-color-scheme&quot;&gt;my process for creating a bivariate choropleth color scheme&lt;/a&gt;.&lt;/p&gt;
+Read about &lt;a href=&quot;http://tolomaps.tumblr.com/post/131671267233/creating-a-bivariate-choropleth-color-scheme&quot; target=&quot;blank&quot;&gt;my process for creating a bivariate choropleth color scheme&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
 In 1971, Congress passed a bipartisan bill that would have “established a network of nationally funded, locally administered, comprehensive child care centers, which were to provide quality education, nutrition, and medical services.” And then Nixon vetoed it, because he said that children should be raised by family (read: women shouldn’t work). We were so close to universal public child care. It’s never been on the table since then, even though we provide free, public education to all children starting in kindergarten. Why shouldn’t we start earlier?&lt;/p&gt;
@@ -68,7 +68,7 @@ In 1971, Congress passed a bipartisan bill that would have “established a netw
         <description>&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/astro-digital-profile.png&quot; alt=&quot;Astro Digital profile page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-While doing a 2015 summer fellowship at &lt;a href=&quot;http://www.developmentseed.org&quot;&gt;Development Seed&lt;/a&gt;, my main client was Astro Digital, a start-up that lets you easily search and publish satellite imagery through their &lt;a href=&quot;https://fetch.astrodigital.com/&quot;&gt;imagery browser&lt;/a&gt;. My main role on the project was working on the user profile accounts, where you can store all of your published maps in one place and set alerts to let you know when new imagery is available in areas that you want to track.&lt;/p&gt;
+While doing a 2015 summer fellowship at &lt;a href=&quot;http://www.developmentseed.org&quot; target=&quot;blank&quot;&gt;Development Seed&lt;/a&gt;, my main client was Astro Digital, a start-up that lets you easily search and publish satellite imagery through their &lt;a href=&quot;https://fetch.astrodigital.com/&quot; target=&quot;blank&quot;&gt;imagery browser&lt;/a&gt;. My main role on the project was working on the user profile accounts, where you can store all of your published maps in one place and set alerts to let you know when new imagery is available in areas that you want to track.&lt;/p&gt;
 
 &lt;p&gt;I led the discussion on how to direct users through the website and create a cohesive experience. When I came on the project, there was no connection between the imagery browser and the user profile, which were built as two separate applications. The two platforms looked and felt detached from each other. I created wireframes for how the site should flow from one platform to the other to create a seamless experience. This also included figuring out how users should create accounts and log in.&lt;/p&gt;
 
@@ -109,7 +109,7 @@ I also worked on some UI redesign to create a cleaner interface. I changed the a
         <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/india-nighttime.png&quot; alt=&quot;India night lights&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
+While working at &lt;a href=&quot;https://developmentseed.org/&quot; target=&quot;blank&quot;&gt;Development Seed&lt;/a&gt;, I worked on the India Night Lights project, which used 20 years of nighttime satellite imagery to document nighttime light output for 600,000 villages across India. I wrote all of the site content and created supplemental maps to help tell the story of the main interactive map on the site.&lt;/p&gt;
 
 &lt;p class=&quot;portfolio-asset&quot;&gt;&lt;br /&gt;
 &lt;img src=&quot;../../../../assets/portfolio/india-nighttime-daytime.gif&quot; alt=&quot;India nighttime/daytime slider&quot; /&gt;&lt;/p&gt;
@@ -128,16 +128,16 @@ While working at &lt;a href=&quot;https://developmentseed.org/&quot;&gt;Developm
     
       <item>
         <title>Your Body, (Not) Your Choice</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/your-body-not-your-choice.png&quot; alt=&quot;Your Body, (Not) Your Choice&quot; /&gt;&lt;/a&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/your-body-not-your-choice.png&quot; alt=&quot;Your Body, (Not) Your Choice&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
 &lt;strong&gt;About:&lt;/strong&gt;
-This &lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot;&gt;interactive map and full-featured website&lt;/a&gt; covers the history of state-level abortion policy in the United States from the Roe v. Wade decision in 1973 through 2014. I worked together with &lt;a href=&quot;http://katiekowalsky.me/&quot;&gt;Katie Kowalsky&lt;/a&gt; and &lt;a href=&quot;http://dylanmoriarty.github.io&quot;&gt;Dylan Moriarty&lt;/a&gt; to collect the data, create the interactive map and chart in D3, write content, and code the website.&lt;/p&gt;
+This &lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot; target=&quot;blank&quot;&gt;interactive map and full-featured website&lt;/a&gt; covers the history of state-level abortion policy in the United States from the Roe v. Wade decision in 1973 through 2014. I worked together with &lt;a href=&quot;http://katiekowalsky.me/&quot; target=&quot;blank&quot;&gt;Katie Kowalsky&lt;/a&gt; and &lt;a href=&quot;http://dylanmoriarty.github.io&quot; target=&quot;blank&quot;&gt;Dylan Moriarty&lt;/a&gt; to collect the data, create the interactive map and chart in D3, write content, and code the website.&lt;/p&gt;
 
-&lt;p&gt;Your Body, (Not) Your Choice was featured on the &lt;a href=&quot;http://flowingdata.com/2015/03/18/abortion-policies-over-time-and-by-state/&quot;&gt;Flowing Data&lt;/a&gt; blog (the nerd highlight of my life!) and won Honorable Mention for the &lt;a href=&quot;http://www.cartogis.org/awards/winners2014.php&quot;&gt;CaGIS 2014 Map Competition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Your Body, (Not) Your Choice was featured on the &lt;a href=&quot;http://flowingdata.com/2015/03/18/abortion-policies-over-time-and-by-state/&quot; target=&quot;blank&quot;&gt;Flowing Data&lt;/a&gt; blog (the nerd highlight of my life!) and won Honorable Mention for the &lt;a href=&quot;http://www.cartogis.org/awards/winners2014.php&quot; target=&quot;blank&quot;&gt;CaGIS 2014 Map Competition&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
-Read &lt;a href=&quot;http://tolomaps.tumblr.com/tagged/yourbodynotyourchoice&quot;&gt;my blog posts about the process&lt;/a&gt;.
-Katie also &lt;a href=&quot;https://kowalskycartography.wordpress.com/tag/575-final-project/&quot;&gt;wrote a few blog posts on the process&lt;/a&gt;.&lt;/p&gt;
+Read &lt;a href=&quot;http://tolomaps.tumblr.com/tagged/yourbodynotyourchoice&quot; target=&quot;blank&quot;&gt;my blog posts about the process&lt;/a&gt;.
+Katie also &lt;a href=&quot;https://kowalskycartography.wordpress.com/tag/575-final-project/&quot; target=&quot;blank&quot;&gt;wrote a few blog posts on the process&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 00:00:00 -0600</pubDate>
         <link>http://tolomaps.github.io/portfolio/2015/01/01/your-body-not-your-choice.html</link>
@@ -150,17 +150,19 @@ Katie also &lt;a href=&quot;https://kowalskycartography.wordpress.com/tag/575-fi
     
       <item>
         <title>Modern Motherhood</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://tolomaps.com/motherhood&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/modern-motherhood.png&quot; alt=&quot;Modern Motherhood: A World of Struggle&quot; /&gt;&lt;/a&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://tolomaps.com/motherhood&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/modern-motherhood.png&quot; alt=&quot;Modern Motherhood: A World of Struggle&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;strong&gt;About:&lt;/strong&gt;
 This was my first attempt at using D3 to creative an interactive map, and it was really, really fun. I love mapping issues that I care about, and was taken aback by some of the insight that I gained from exploring the various indicators presented here.&lt;/p&gt;
 
-&lt;p&gt;I was initially inspired to map these topics by &lt;a href=&quot;http://www.nytimes.com/imagepages/2013/02/17/opinion/17coontz2-map.html&quot;&gt;this NYTimes map&lt;/a&gt; of maternity leave policies worldwide, which was published right before I got pregnant. It seemed odd that Bogota, Colombia (where I was living at the time) was a better place to have a kid as a working woman than the United States.&lt;/p&gt;
+&lt;p&gt;I was initially inspired to map these topics by &lt;a href=&quot;http://www.nytimes.com/imagepages/2013/02/17/opinion/17coontz2-map.html&quot; target=&quot;blank&quot;&gt;this NYTimes map&lt;/a&gt; of maternity leave policies worldwide, which was published right before I got pregnant. It seemed odd that Bogota, Colombia (where I was living at the time) was a better place to have a kid as a working woman than the United States.&lt;/p&gt;
 
 &lt;p&gt;I am under no illusion that the maternal leave map is actually indicative of the situation in each country; I am aware that in many countries, the official policy may be that women get paid maternal leave, but the reality is that many women don’t have formal employment or may not qualify for other reasons. This is a subject I’d like to explore further.&lt;/p&gt;
 
-&lt;p&gt;The Maternal Death indicator shocked me. In too many countries, the rate is higher than 1:50, meaning that 1 in 50 women will die from some maternal cause.&lt;/p&gt;
+&lt;p&gt;The Maternal Death indicator shocked me. In too many countries, the rate is higher than 1:50, meaning that 1 in 50 women will die from some maternal cause.
+&lt;br /&gt;
+&lt;a href=&quot;http://tolomaps.com/motherhood&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/modern-motherhood-2.png&quot; alt=&quot;Modern Motherhood: A World of Struggle&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 00:00:00 -0500</pubDate>
         <link>http://tolomaps.github.io/portfolio/2014/11/01/modern-motherhood.html</link>
@@ -174,11 +176,11 @@ This was my first attempt at using D3 to creative an interactive map, and it was
       <item>
         <title>Espectro Energy</title>
         <description>&lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.espectroenergy.com/map/&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/espectro-energy.png&quot; alt=&quot;Espectro Energy&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.espectroenergy.com/map/&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/espectro-energy.png&quot; alt=&quot;Espectro Energy&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;strong&gt;About:&lt;/strong&gt;
-&lt;a href=&quot;http://www.espectroenergy.com&quot;&gt;Espectro Energy&lt;/a&gt; was a beta platform built to help people make informed decisions about whether renewable energy can work for them. The user selects information about their energy needs and location, and then the platform gives them different scenarios about how viable renewable energy is for them and what the potential cost would be. Does the user want to focus on decreasing costs? On creating a system with the highest percentage of renewable energy possible? The platform is especially targeted towards users who live in parts of Colombia without access to the electricity grid.&lt;/p&gt;
+&lt;a href=&quot;http://www.espectroenergy.com&quot; target=&quot;blank&quot;&gt;Espectro Energy&lt;/a&gt; was a beta platform built to help people make informed decisions about whether renewable energy can work for them. The user selects information about their energy needs and location, and then the platform gives them different scenarios about how viable renewable energy is for them and what the potential cost would be. Does the user want to focus on decreasing costs? On creating a system with the highest percentage of renewable energy possible? The platform is especially targeted towards users who live in parts of Colombia without access to the electricity grid.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
 I worked as project manager and cartographer on this project during my time at &lt;a href=&quot;/resume&quot;&gt;CEELAT&lt;/a&gt; in Bogota, Colombia. I worked closely with web developers, designers, and renewable energy experts to flesh out the technical scope of the project, make sure that everything was running smoothly, and ensure that everyone was on the same page throughout the duration of the project. I conducted user testing with stakeholders, leading to additional improvements to the site. I was also in charge of the map creation, including styling the data in TileMill.&lt;/p&gt;
@@ -212,7 +214,7 @@ Due to its sheer quantity of routes, Transmilenio is notorious for being nearly 
 
 &lt;p class=&quot;portfolio-asset&quot;&gt;&lt;img src=&quot;../../../../assets/img/Mapa-transmilenio-general-Agosto-2006.jpg&quot; alt=&quot;official Transmilenio map&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
-Thanks to &lt;a href=&quot;http://www.cambooth.net/&quot;&gt;Cameron Booth&lt;/a&gt; of &lt;a href=&quot;http://transitmaps.tumblr.com/&quot;&gt;Transit Maps&lt;/a&gt; for inspiration and tips on his blog.&lt;/p&gt;
+Thanks to &lt;a href=&quot;http://www.cambooth.net/&quot; target=&quot;blank&quot;&gt;Cameron Booth&lt;/a&gt; of &lt;a href=&quot;http://transitmaps.tumblr.com/&quot; target=&quot;blank&quot;&gt;Transit Maps&lt;/a&gt; for inspiration and tips on his blog.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 May 2013 00:00:00 -0500</pubDate>
         <link>http://tolomaps.github.io/portfolio/2013/05/15/this-is-not-a-subway-map.html</link>

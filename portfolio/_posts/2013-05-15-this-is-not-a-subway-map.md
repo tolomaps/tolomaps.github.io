@@ -27,4 +27,4 @@ For reference, this is roughly what the Transmilenio map looked like when I made
 ![official Transmilenio map](../../../../assets/img/Mapa-transmilenio-general-Agosto-2006.jpg)
 {: .portfolio-asset}
 \\
-Thanks to [Cameron Booth](http://www.cambooth.net/) of [Transit Maps](http://transitmaps.tumblr.com/) for inspiration and tips on his blog.
+Thanks to [Cameron Booth](http://www.cambooth.net/){:target="blank"} of [Transit Maps](http://transitmaps.tumblr.com/){:target="blank"} for inspiration and tips on his blog.
