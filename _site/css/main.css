@@ -5819,7 +5819,8 @@ body {
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
-  font-kerning: normal; }
+  font-kerning: normal;
+  padding-top: 50px; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -11772,7 +11773,7 @@ button.close {
 .site-header {
   border-bottom: 1px solid #fff;
   background-color: #53edbe;
-  position: relative; }
+  position: fixed; }
   .site-header .container a {
     color: #333333; }
   .site-header .container a:hover {
