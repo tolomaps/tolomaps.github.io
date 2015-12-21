@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2015 15:49:08 -0600</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 15:49:08 -0600</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2015 16:13:57 -0600</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2015 16:13:57 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -35,6 +35,28 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Ode to Honey and Papa</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; src=&quot;https://a.tiles.mapbox.com/v4/tolomaps.o4bg0ag4/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoidG9sb21hcHMiLCJhIjoiREpQUkpiTSJ9.g4b1dVMvmEB78zMOSgiHIA&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;About:&lt;/strong&gt;
+I made this map in memory of my maternal grandparents, Carol and Van Hart, fondly known as Honey and Papa. My parents, aunts, uncles, cousins, and siblings helped me compile a list of places that were meaningful to Honey and Papa.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+The colors for the map came from &lt;a href=&quot;https://www.instagram.com/p/yxILddEUfI/?tagged=montgomerytour&quot; target=&quot;blank&quot;&gt;the stained glass&lt;/a&gt; at the old train station in Montgomery, Alabama, where my grandparents were from. The inspiration to create the map came after a visit to Montgomery for Honey’s funeral, and driving around to see all of the important places in her life (and my childhood).
+&lt;br /&gt;
+&lt;br /&gt;
+I created all of the textures in Photoshop, the texture of each color distinct from the rest. I created the map in Mapbox Studio Classic with custom CartoCSS.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2015/11/01/ode-to-honey-and-papa.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2015/11/01/ode-to-honey-and-papa.html</guid>
+        
+        
+        <category>portfolio</category>
         
       </item>
     
