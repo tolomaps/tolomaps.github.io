@@ -6,8 +6,8 @@
 </description>
     <link>http://tolomaps.github.io/</link>
     <atom:link href="http://tolomaps.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2015 17:55:35 -0600</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 17:55:35 -0600</lastBuildDate>
+    <pubDate>Mon, 18 Jan 2016 23:11:18 -0600</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 23:11:18 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -190,6 +190,32 @@ Katie also &lt;a href=&quot;https://kowalskycartography.wordpress.com/tag/575-fi
       </item>
     
       <item>
+        <title>Grand Tetons</title>
+        <description>&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;a href=&quot;../../../../assets/portfolio/grand-tetons-full.png&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/grand-tetons-full.png&quot; alt=&quot;Morning in the Grand Tetons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;About:&lt;/strong&gt;
+I was inspired by Tom Patterson’s work of &lt;a href=&quot;http://www.shadedrelief.com/landsat8/introduction.html&quot; target=&quot;blank&quot;&gt;draping satellite imagery over terrain&lt;/a&gt; to create this image of the Grand Tetons. I spent the summer of 2014 reacquainting myself with the U.S. after four years in Colombia by taking a road trip around the country with my family before landing in Madison, Wisconsin. Our stop in the Grand Tetons is near to my heart, where we hiked, kayaked, and enjoyed the stunning mountain scenery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process:&lt;/strong&gt;
+I used &lt;a href=&quot;https://www.blender.org/&quot; target=&quot;blank&quot;&gt;Blender&lt;/a&gt; to create shaded relief and Photoshop to create a natural color image from Landsat 5 imagery. I overlaid the shaded relief with the satellite image to make the topography of the area pop.&lt;/p&gt;
+
+&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/grand-tetons-process.png&quot; alt=&quot;Morning in the Grand Tetons process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I debated how to do the shaded relief; typically, when creating relief, the “light source” should come from the top-left of the image in order for the terrain to not appear inverted. However, in the satellite image, it is morning and thus the natural sunlight appears from the right side of the image. After much trial and error, I ultimately decided for the light source to be on the right-hand side of the terrain to accentuate the actual light on the satellite image. That said, I have had one person tell me the terrain looked inverted to them!&lt;/p&gt;
+
+&lt;p&gt;Thanks to Daniel Huffman for your &lt;a href=&quot;https://somethingaboutmaps.wordpress.com/2014/10/26/adding-shaded-relief-in-photoshop/&quot; target=&quot;blank&quot;&gt;shaded relief in Photoshop&lt;/a&gt; and &lt;a href=&quot;https://somethingaboutmaps.wordpress.com/2014/01/01/blender-tutorial/&quot; target=&quot;blank&quot;&gt;shaded relief in Blender&lt;/a&gt; tutorials!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://tolomaps.github.io/portfolio/2014/12/31/grand-tetons.html</link>
+        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2014/12/31/grand-tetons.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
         <title>Modern Motherhood</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://tolomaps.com/motherhood&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/modern-motherhood.png&quot; alt=&quot;Modern Motherhood: A World of Struggle&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
@@ -229,37 +255,6 @@ I worked as project manager and cartographer on this project during my time at &
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0600</pubDate>
         <link>http://tolomaps.github.io/portfolio/2014/01/01/espectro-energy.html</link>
         <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2014/01/01/espectro-energy.html</guid>
-        
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>This Is Not A Subway Map</title>
-        <description>&lt;p&gt;&lt;a href=&quot;../../../../assets/portfolio/this-is-not-a-subway-map.png&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/this-is-not-a-subway-map.png&quot; alt=&quot;Transmilenio Map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About &amp;amp; Process:&lt;/strong&gt;
-I created this map while living in Bogota, Colombia, out of frustration over the signage present in the stations of the Transmilenio, the bus rapid transit system in the city. Going through this process of creating a map for a bus rapid transit system made me realize just how difficult it is to design for this kind of system. Subway systems are more straightforward; in most systems, trains stop at every station along any given line (with the NYC subway being a notable exception, but even that has just a few express lines). However, in order for the Transmilenio to save time in the system, there are a a wide variety of express routes that stop at different stations, with seemingly little rhyme or reason. Thus, an overall map of the system like the one that I created is useful only for giving the user the big picture; it can’t actually help a person decide which bus to take to get from one point to another. I never found the perfect way to give both an overall view of the system while also helping the user plan his/her trip in one static image.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
-Due to its sheer quantity of routes, Transmilenio is notorious for being nearly impossible to figure out how to get from Point A to Point B. Here’s an example of the schematic diagram posted in each station to figure out which route to take:&lt;/p&gt;
-
-&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;img src=&quot;../../../../assets/img/transmilenio-trip-planner-guide.png&quot; alt=&quot;Transmilenio route planner&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Imagine standing in a crowded Transmilenio station and needing to determine which bus to get on. You could be standing there for a while, especially if you’re completely unfamiliar with the system.&lt;/p&gt;
-
-&lt;p&gt;Despite the Transmilenio having dedicated lanes of traffic, the fact that it runs on surface streets limits its capacity. Though subway trains can have up to ten cars, system buses usually have two cars or, at most, three. Since the stations are placed in the middle of major streets, they are limited in the width that they can take up and thus get very crowded during rush hour. Buses also must stop at red lights, which inherently slows down the system.&lt;/p&gt;
-
-&lt;p&gt;For reference, this is roughly what the Transmilenio map looked like when I made this alternative in 2013:&lt;/p&gt;
-
-&lt;p class=&quot;portfolio-asset&quot;&gt;&lt;img src=&quot;../../../../assets/img/Mapa-transmilenio-general-Agosto-2006.jpg&quot; alt=&quot;official Transmilenio map&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-Thanks to &lt;a href=&quot;http://www.cambooth.net/&quot; target=&quot;blank&quot;&gt;Cameron Booth&lt;/a&gt; of &lt;a href=&quot;http://transitmaps.tumblr.com/&quot; target=&quot;blank&quot;&gt;Transit Maps&lt;/a&gt; for inspiration and tips on his blog.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 May 2013 00:00:00 -0500</pubDate>
-        <link>http://tolomaps.github.io/portfolio/2013/05/15/this-is-not-a-subway-map.html</link>
-        <guid isPermaLink="true">http://tolomaps.github.io/portfolio/2013/05/15/this-is-not-a-subway-map.html</guid>
         
         
         <category>portfolio</category>
